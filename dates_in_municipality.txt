@@ -1,0 +1,2056 @@
+RM37003-BA-Brejolandia.txt;odo de 22/10/2012 a 26/10/2012. 
+ESPECIAL_01_PAC-MS-Douradina.txt;odo de 01Set2008 a 19Set2008, 
+30-MG-Casa_Grande.txt;odo de 13Out2009 a 31Dez2009, 
+34-BA-Ubaira.txt;odo de 29/08/2011 a 02/09/2011. 
+11-SP-Aracoiaba_da_Serra.txt;odo de 12 a 16 de junho de 2004 sendo utilizados em sua execução técnicas e , 
+15-MS-Nova_Andradina.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+02-PR-Prudentopolis.txt;odo de 19/05/2003 à 24/05/2003, sendo
+34-MG-Campo_Belo.txt;odo de 29/08/2011 a 02/09/2011. 
+14-ES-Mimoso_do_Sul.txt;odo de 29/11 a 10/12/2004 sendo utilizados em sua execução as seguintes técnicas e , 
+31-PE-Timbauba.txt;odo de 01Mar2010 a 17Mai2010, 
+21-TO-Sao_Valerio_da_Natividade.txt;odo de 09Jun2006 a 07Jul2006, 
+09-SP-Maua.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução técnicas e procedimentos, 
+20-PR-Foz_do_Jordao.txt;odo de 03Abr2006 a 27Set2006, 
+09-PB-Cuite.txt;odo 17/5/2004 a 21/5/2004 sendo utilizados em sua execução as seguintes técnicas e procedimentos: por meio de inspeções físicas e documentais, 
+11-AL-Senador_Rui_Palmeira.txt;odo de 19/07 a 23, 
+24-MG-Mirabela.txt;odo de 01Out2007 a 25Out2007, 
+19-PR-Arapongas.txt;odo de 21/11/2005 a 25/11/2005, sendo
+04-CE-Caucaia.txt;odo de 11/8/2003 a 15/8/2003, sendo
+15-MG-Santos_Dumont.txt;odo de 02 a 06 de maio de 2005, sendo
+RM38004-BA- Casa Nova.txt;odo de 18/03/2013 a 22/03/2013. 
+16-RN-Canguaretama.txt;odo 27/06 a 01/07 de 2005, sendo
+03-BA-Taperoa.txt;odo de 29/06/2003 a 09/07/2003, sendo
+29-MG-Palmopolis.txt;odo de 01Out2009 a 03Dez2009, 
+RM38011-CE- Crato.txt;odo de 18/03/2013 a 23/03/2013. 
+29-RN-Agua_Nova.txt;odo de 25Ago2009 a 16Out2009, 
+27-BA-Guaratinga.txt;odo de 29Out2008 a 05Jan2009, 
+19-MA-Urbano_Santos.txt;odo de 21 a 25 de novembro de 2005, sendo
+10-SP-Pederneiras.txt;odo de 14 a 18 de JUNHO de 2004 sendo utilizados em sua execução técnicas e procedimentos tais como, 
+18-PA-Goianesia_do_Para.txt;odo de 17 a 24/10/2005 sendo utilizados em sua execução: inspeções físicas e,
+29-MG-Argirita.txt;odo de 01Out2009 a 16Dez2009, 
+35-BA-Morro_do_Chapeu.txt;odo de 11/10/2011 a 21/10/2011. 
+27-PI-Caldeirap_Grande_do_Piaui.txt;odo de 05Nov2008 a 18Dez2008, 
+16-ES-Laranja_da_Terra.txt;odo de 22/06 a 07/07/2005 sendo utilizados em sua execução as , 
+ESPECIAL_02_PAC-SP-Marilia.txt;odo de 10Mar2009 a 24Abr2009, 
+21-PI-Domingos_Mourao.txt;odo de 12Jun2006 a 30Ago2006, 
+25-MA-Carutapera.txt;odo de 17Out2007 a 27Dez2007, 
+13-SP-Ribeirao_Branco.txt;odo de 08 a 12 de Novembro de 2004 sendo utilizados em sua execução técnicas e , 
+03-MG-Jacinto.txt;odo de 29/06/2003 a 03/07/2003, sendo
+24-SC-Rio_Fortuna.txt;odo de 01Ago2007 a 20Set2007, 
+28-GO-Arenopolis.txt;odo de 01Jul2009 a 07Ago2009, 
+34-GO-Edealina.txt;odo de 29/08/2011 a 02/09/2011. 
+20-PR-Maringa.txt;odo de 30Mar2006 a 02Jun2006, 
+RM38032-PB-Bananeiras.txt;odo de 18/03/2013 a 22/03/2013. 
+33-PE-Sao_Jose_da_Coroa_Grande.txt;odo de 02Ago2010 a 30Set2010, 
+03-PI-Castelo_do_Piaui.txt;odo de 30/06/2003 a 04/07/2003, sendo
+24-PE-Santa_Maria_da_Boa_Vista.txt;odo de 01Ago2007 a 10Out2007, 
+04-MG-Rio_Casca.txt;odo de 11/08/2003 a 15/08/2003, sendo
+29-BA-Igrapiuna.txt;odo de 01Out2009 a 03Nov2009, 
+33-RN-Ipueira.txt;odo de 02Ago2010 a 17Set2010, 
+07-TO-Novo_Jardim.txt;odo de 24 a , 
+26-RS-Sao_Nicolau.txt;odo de 07Mai2008 a 11Jul2008, 
+29-PE-Sao_Joao.txt;odo de 24Ago2009 a 13Nov2009, 
+11-GO-Goiatuba.txt;odo de 26/07 a 30/07/2004 sendo utilizados em sua execução as técnicas e , 
+09-RS-Antonio_Prado.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos como inspeções físicas e documentais, 
+35-SE-Nossa_Senhora_Aparecida.txt;odo de 17/10/2011 a 21/10/2011. 
+RM37006-BA-Sao Sebastiao do Passe.txt;odo de 22/10/2012 a 26/10/2012. 
+11-BA-Ituacu.txt;odo de 19 a 23/07/2004, sendo
+33-BA-Contendas_do_Sincora.txt;odo de 01Out2010 a 14Out2010, 
+RM38046-RS-Campo Bom.txt;odo de 18/03/2013 a 21/03/2013. 
+28-PA-Santa_Luzia_do_Para.txt;odo de 18Mai2009 a 24Jul2009, 
+17-SP-Timburi.txt;odo de 29/08/05 a 02/09/05, sendo
+RM38012-CE- Morrinhos.txt;odo de 18/03/2013 a 17/05/2013. 
+30-MG-Jose_Goncalves_de_Minas.txt;odo de 13Out2009 a 22Dez2009, 
+23-PR-Fazenda_Rio_Grande.txt;odo de 14Mai2007 a 19Jul2007, 
+30-AL-Olho_D_Agua_das_Flores.txt;odo de 13Out2009 a 03Mar2010, 
+11-AM-Maraa.txt;odo de 19 a 23 de julho de 2004 sendo utilizados em sua execução as técnicas e , 
+22-RJ-Casimiro_de_Abreu.txt;odo de 26Jul2006 a 05Dez2006, 
+21-SP-Turmalina.txt;odo de 12Jun2006 a 16Ago2006, 
+RM37012-GO-Cidade Ocidental.txt;odo de 22/10/2012 a 26/10/2012. 
+28-PR-Maringa.txt;odo de 21Mai2009 a 14Jul2009, 
+14-MG-Canapolis.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+15-AL-Dois_Riachos.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+32-RS-Toropi.txt;odo de 17Mai2010 a 14Jul2010, 
+15-ES-Nova_Venecia.txt;odo de 27 de abril a 06 de maio de 2005 sendo utilizados em sua execução as técnicas de inspeções físicas e documentais, 
+25-MG-Machado.txt;odo de 17Out2007 a 30Jan2008, 
+ESPECIAL_02_PAC-CE-Paraipaba.txt;odo de 06Abr2009 a 06Abr2009, 
+34-RS-Mucum.txt;odo de 29/08/2011 a 02/09/2011. 
+13-PA-Terra_Santa.txt;odo de 08 a 12/11/2004, 
+06-MG-Seritinga.txt;odo de 28 a 31 de , 
+02-AP-Pracuuba.txt;odo de 19/05/2003 a 23/05/2003, sendo
+07-MG-Rio_do_Prado.txt;odo de 24 a 28 de , 
+RM36003-AP-Santana.txt;odo de 06/08/2012 a 17/08/2012. 
+11-BA-Santana.txt;odo de 19/07 a 30/07/2004 sendo utilizados em sua execução as seguintes , 
+13-SP-Pilar_do_Sul.txt;odo de 08 a 12 de Novembro de 2004 sendo utilizados em sua execução técnicas e , 
+32-CE-Umirim.txt;odo de 17Mai2010 a 29Jun2010, 
+19-MT-Nova_Brasilandia.txt;odo de 21 a 25/11/05 sendo utilizados em sua execução as técnicas , 
+03-AM-Parintins.txt;odo de 07/07/2003 a 11/07/2003, 
+24-ES-Ecoporanga.txt;odo de 31Jul2007 a 07Nov2007, 
+06-PE-Frei_Miguelinho.txt;odo de 27 a , 
+35-PA-Santa_Maria_do_Para.txt;odo de 17/10/2011 a 21/10/2011. 
+20-GO-Cristianopolis.txt;odo de 31Mar2006 a 09Mai2006, 
+34-PA-Bagre.txt;odo de 29/08/2011 a 30/09/2011. 
+32-RS-Caseiros.txt;odo de 17Mai2010 a 16Jul2010, 
+35-BA-Tremedal.txt;odo de 17/10/2011 a 21/10/2011. 
+35-SP-Auriflama.txt;odo de 17/10/2011 a 21/10/2011. 
+ESPECIAL_02_PAC-MG-Moema.txt;odo de 01Abr2009 a 20Abr2009, 
+25-PE-Sao_Caetano.txt;odo de 09Out2007 a 05Dez2007, 
+17-RR-Amajari.txt;odo de 02 a 06/09/2005 sendo utilizados em sua execução as,
+02-RR-Amajari.txt;odo de 19/05/2003 a 24/05/2003, 
+15-AM-Boa_Vista_do_Ramos.txt;odo de 2 a 6 de maio de 2005 sendo utilizados em sua execução as , 
+33-PB-Tavares.txt;odo de 07Jul2010 a 30Set2010, 
+21-MG-Pequi.txt;odo de 12Jun2006 a 07Jul2006, 
+15-GO-Abadiania.txt;odo de 02.
+35-SE-Divina_Pastora.txt;odo de 18/10/2011 a 21/10/2011. 
+15-RO-Campo_Novo_do_Rondonia.txt;odo 02 de maio a 06 de maio de 2005, sendo
+34-CE-Iracema.txt;odo de 29/08/2011 a 02/09/2011. 
+ESPECIAL_02_PAC-AL-Minador_do_Negrao.txt;odo de 01Abr2009 a 03Abr2009, 
+RM38005-BA- Catolandia.txt;odo de 18/03/2013 a 22/03/2013. 
+29-PB-Duas_Estradas.txt;odo de 24Ago2009 a 09Out2009, 
+12-BA-Itaquara.txt;odo de 23/08/2004 a 03/09/2004 sendo utilizados em sua execução as técnicas: inspeções , 
+26-RN-Jardim_de_Piranhas.txt;odo de 08Mai2008 a 01Ago2008, 
+25-SC-Descanso.txt;odo de 17Out2006 a 19Nov2007, 
+ESPECIAL_02_PAC-SC-Faxinal_dos_Guedes.txt;odo de 01Abr2009 a 24Abr2009, 
+29-PA-Augusto_Correa.txt;odo de 08Out2009 a 20Nov2009, 
+07-RO-Corumbiara.txt;odo de 24 a , 
+RM37024-MS-Santa Rita do Pardo.txt;odo de 22/10/2012 a 26/10/2012. 
+1913_ RM035029-PA-Sao Felix do Xingu.txt;odo de 17/10/2011 a 21/10/2011. 
+23-MT-Alto_Boa_vista.txt;odo de 14Mai2007 a 29Jun2007, 
+25-PR-Primeiro_de_Maio.txt;odo de 15Out2007 a 31Dez2007, 
+13-BA-Serra_Dourada.txt;odo de 08/11/2004 a 12/11/2004 sendo utilizados em sua execução as técnicas: inspeções , 
+05-PR-Quitandinha.txt;odo de 15/09/2003 a 19/09/2003, sendo
+29-TO-Novo_Alegre.txt;odo de 27Ago2009 a 30Set2009, 
+31-MG-Carvalhos.txt;odo de 01Abr2010 a 30Jun2010, 
+32-RS-Alto_Alegre.txt;odo de 17Mai2010 a 15Jul2010, 
+12-MG-Mendes_Pimentel.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução as técnicas e , 
+14-RS-Ametista_do_Sul.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+RM38009-CE- Abaiara.txt;odo de 18/03/2013 a 23/03/2013. 
+ESPECIAL_02_PAC-PB-Mataraca.txt;odo de 10Mar2009 a 23Mar2009, 
+32-MA-Penalva.txt;odo de 18Mai2010 a 31Jul2010, 
+23-CE-Frecheirinha.txt;odo de 02Jul2007 a 20Ago2007, 
+16-RS-Rolante.txt;odo de 27/06 a 01/07/2005, sendo
+25-AM-Carreiro_da_Varzea.txt;odo de 17Out2007 a 04Dez2007, 
+16-MG-Monte_Carmelo.txt;odo de 27 de junho a 01 de julho de 2005, sendo
+19-PR-Congonhinhas.txt;odo de 21/11/2005 a 25/11/2005, sendo
+20-SP-Nova_Odessa.txt;odo de 31Mar2006 a 08Jun2006, 
+32-SP-Pedregulho.txt;odo de 01Jul2010 a 16Jul2010, 
+16-PB-Princesa_Isabel.txt;odo 27/6 a 1/7/2005 sendo , 
+03-MA-Candido_Mendes.txt;odo de 30/07/2003 à 04/07/2003, sendo
+30-RJ-Rio_Bonito.txt;odo de 13Out2009 a 23Dez2009, 
+09-SP-Taquaritinga.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução técnicas e procedimentos, 
+22-BA-Cruz_das_Almas.txt;odo de 19Jul2006 a 29Set2006, 
+RM37041-RN-Agua Nova.txt;odo de 21/10/2012 a 09/11/2012. 
+RM37040-RJ-Belford Roxo.txt;odo de 05/11/2012 a 09/12/2012. 
+35-PB-Queimadas.txt;odo de 17/10/2011 a 22/10/2011. 
+18-MG-Santo_Antonio_do_Retiro.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua,
+13-RJ-Saquarema.txt;odo de 08 a 12/11/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+33-RJ-Sapucaia.txt;odo de 03Ago2010 a 19Nov2010, 
+16-AP-Serra_do_Navio.txt;odo de 27/06 a 01/07/2005 sendo utilizados em sua execução as , 
+07-CE-Crato.txt;odo 23/11 a , 
+ESPECIAL_02_PAC-PE-Tabira.txt;odo de 01Abr2009 a 24Abr2009, 
+18-PR-Lidianopolis.txt;odo de 17/10/2005 a 21/10/2005, sendo
+17-TO-Ipueiras.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as , 
+RM36018-PR-Bela Vista do Caroba.txt;odo de 06/08/2012 a 10/08/2012. 
+10-SC-Agronomica.txt;odo de 14/06/2004 a 25/06/2004, sendo
+31-CE-Jucas.txt;odo de 09Mar2010 a 31Mar2010, 
+11-MS-Fatima_do_Sul.txt;odo de 12 a 16/07/2004 sendo utilizados em sua execução as técnicas e , 
+20-MG-Rio_Espera.txt;odo de 30Mar2006 a 30Mai2006, 
+12-PI-Santo_Antonio_de_Lisboa.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução técnicas , 
+19-PR-Pinhais.txt;odo de 21/11/2005 a 30/11/2005, sendo
+26-MA-Apicum_Acu.txt;odo de 14Mai2008 a 29Jul2008, 
+03-RJ-Porto_Real.txt;odo de 30/06/2003 a 04/07/2003, sendo
+22-RS-Itatiba_do_Sul.txt;odo de 26Jul2006 a 09Set2006, 
+09-PA-Almeirim.txt;odo de 17 à 28.
+05-PA-Bagre.txt;odo de 15/09/2003 a 19/09/2003, 
+35-PE-Oroco.txt;odo de 17/10/2011 a 01/12/2011. 
+10-MA-Tasso_Fragoso.txt;odo de 14/06/2004 a 04/06/2004 . 
+31-BA-Itaparica.txt;odo de 01Abr2010 a 29Jun2010, 
+07-PB-Bom_Sucesso.txt;odo de 24 a , 
+13-CE-Ubajara.txt;odo de 8/11 a 12/11/2004, sendo
+15-PB-Barra_de_Sao_Miguel.txt;odo 02 a 06/05/2005 sendo , 
+03-SC-Araquari.txt;odo de 30/06/2003 a 04/07/2003, 
+10-RS-Boqueirao_do_Leao.txt;odo de 14 a 18/06/2004, sendo
+06-RJ-Pirai.txt;odo de 27/10/2003 a , 
+08-RO-Alvorada_D_Oeste.txt;odo 12 a 16 de abril de 2004, sendo
+20-SC-Icara.txt;odo de 27Mar2006 a 02Mai2006, 
+34-CE-Jaguaribe.txt;odo de 29/08/2011 a 02/09/2011. 
+02-SE-Cumbe.txt;odo de 19/05/2003 à 24/05/2003, sendo
+21-SC-Bocaina_do_Sul.txt;odo de 12Jun2006 a 21Jul2006, 
+19-AL-Santa_Luzia_do_Norte.txt;odo de 21/novembro a 01/dezembro/2005 sendo utilizados em sua execução as,
+14-SE-Pedrinhas.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas e , 
+30-BA-Serra_do_Ramalho.txt;odo de 01Jan2010 a 02Fev2010, 
+15-PR-Juranda.txt;odo de 02/05/2005 a 06/05/2004, sendo
+27-MG-Ijaci.txt;odo de 03Nov2008 a 31Dez2008, 
+33-MA-Bequimao.txt;odo de 29Jul2010 a 08Out2010, 
+21-SP-Santana_da_Ponte_Pensa.txt;odo de 13Jun2006 a 18Ago2006, 
+17-MT-Paranaita.txt;odo de 29 de agosto a 02 de setembro/2005 sendo utilizados em sua , 
+24-RS-Cerro_Grande_do_Sul.txt;odo de 31Jul2007 a 19Set2007, 
+13-BA-Wanderley.txt;odo de 08 a 12/11/2004, sendo
+23-PE-Quixaba.txt;odo de 14Mai2007 a 09Jul2007, 
+26-MG-Sao_Jose_do_Jacuri.txt;odo de 05Mai2008 a 27Ago2008, 
+16-PR-Brasilandia_do_Sul.txt;odo de 27/06/2005 a 01/07/2005, sendo
+04-RJ-Teresopolis.txt;odo de 11/08/2003 a 15/08/2003, sendo
+12-SP-Itapira.txt;odo de 23 de agosto a 01 de setembro de 2004 sendo utilizados em sua execução as , 
+18-PB-Bayeux.txt;odo de 17/10 a 18/11/2005 sendo utilizadas em sua execução as,
+03-CE-Santana_do_Acarau.txt;odo de 30/06/2003 a 04/07/2003, sendo
+23-SP-Cananeia.txt;odo de 16Mai2007 a 29Jun2007, 
+03-SP-Ipaussu.txt;odo de 30/06/2003 a 04/07/2003, sendo
+19-MG-Toledo.txt;odo 21 a 25 de novembro de 2005 sendo utilizados em sua execução,
+32-PE-Surubim.txt;odo de 01Jul2010 a 17Ago2010, 
+23-PI-Barro_Duro.txt;odo de 21Mai2006 a 29Jun2007, 
+17-RS-Tupanci_do_Sul.txt;odo de 29/08 a 02/09/2005, sendo
+05-TO-Aguiarnopolis.txt;odo de 15/09/2003 a 19/08/2003, sendo
+35-MG-Claudio.txt;odo de 17/10/2011 a 21/10/2011. 
+19-RS-Jacuizinho.txt;odo de 21 a 25/11/2005, sendo
+24-RS-Taquari.txt;odo de 01Ago2007 a 18Set2007, 
+18-BA-Itacare.txt;odo de 17/10/2005 a 21/10/2005, sendo
+20-MG-Itumirim.txt;odo de 06Abr2005 a 30Mai2006, 
+07-SP-Ilha_Solteira.txt;odo de 24 a , 
+14-RS-Linha_Nova.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+07-RN-Vera_Cruz.txt;odo de 24/11/2003 a 28/11/2003, sendo
+25-RN-Presidente_Juscelino.txt;odo de 17Out2007 a 28Fev2008, 
+28-PA-Afua.txt;odo de 20Mai2009 a 03Jul2009, 
+20-MG-Pirapetinga.txt;odo de 31Mar2006 a 30Mai2006, 
+08-GO-Buritinopolis.txt;odo de 26.
+02-MS-Vicentina.txt;odo de 19/05/2003 à 24/05/2003, sendo
+14-PR-Conselheiro_Mairinck.txt;odo de 29/11/2004 a 03/12/2004, sendo
+14-RN-Sao_Tome.txt;odo de 29/11/2004 a 03/12/2004 sendo utilizados em sua execução as técnicas de , 
+RM37026-MT-Ribeiraozinho.txt;odo de 22/10/2012 a 26/10/2012. 
+19-MG-Sao_Jose_do_Divino.txt;odo de 21 de novembro a 25 de novembro de 2005, sendo
+17-PI-Nossa_Senhora_de_Nazare.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as , 
+03-PB-Belem.txt;odo de 30/06/2003 a 04/07/2003, sendo
+23-MG-Martins_Soares.txt;odo de 14Mai2007 a 14Ago2007, 
+ESPECIAL_01_PAC-SP-Ibiuna.txt;odo de 25Ago2008 a 30Set2008, 
+07-RR-Rorainopolis.txt;odo de 24/nov/2003 a 28/nov/2003, sendo
+34-MG-Nova_Ponte.txt;odo de 29/08/2011 a 02/09/2011. 
+29-MG-Aguas_Vermelhas.txt;odo de 01Out2009 a 10Dez2009, 
+14-RS-Relvado.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+24-MA-Icatu.txt;odo de 30Jul2007 a 28Set2007, 
+10-SC-Sao_Ludgero.txt;odo de 14/06/2004 a 18/06/2004, sendo
+35-ES-Ponto_Belo.txt;odo de 17/10/2011 a 21/10/2011. 
+05-MT-Juscimeira.txt;odo de 15/09/2003 a , 
+ESPECIAL_01_PAC-BA-Ipira.txt;odo de 25Ago2008 a 30Set2008, 
+35-RS-Itaara.txt;odo de 17/10/2011 a 21/10/2011. 
+33-PA-Terra_Santa.txt;odo de 04Ago2010 a 10Nov2010, 
+33-MA-Benedito_Leite.txt;odo de 02Ago2010 a 15Out2010, 
+35-CE-Horizonte.txt;odo de 17/10/2011 a 21/10/2011. 
+30-RS-Tucunduva.txt;odo de 13Out2009 a 11Dez2009, 
+24-RR-Sao_Luiz.txt;odo de 01Ago2007 a 20Set2007, 
+13-AL-Poco_das_Trincheiras.txt;odo de 08/11 a 12/11/2004 sendo utilizados em sua execução as técnicas e , 
+22-TO-Palmeirante.txt;odo de 26Jul2006 a 12Set2006, 
+09-PB-Salgado_de_Sao_Felix.txt;odo de 17 a 21/5/2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais, 
+18-RJ-Mangaratiba.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua,
+05-PI-Guadalupe.txt;odo de 15/09/2003 a , 
+RM36004-BA-Ibirapitanga.txt;odo de 06/08/2012 a 10/08/2012. 
+19-PA-Sao_Joao_de_Pirabas.txt;odo 21 a 25 de novembro de 2005, sendo
+35-RO-Presidente_Medici.txt;odo de 17/10/2011 a 21/10/2011. 
+19-PI-Wall_Ferraz.txt;odo de 21 a 25/11/2005 sendo utilizados em sua execução as , 
+02-RO-Ouro_Preto_do_Oeste.txt;odo de 19/05/2003 à 23/05/2003, sendo
+28-GO-Aparecida_de_Goiania.txt;odo de 01Jul2009 a 14Set2009, 
+27-MG-Itabirito.txt;odo de 03Nov2008 a 31Dez2008, 
+ESPECIAL_02_PAC-PR-Arapongas.txt;odo de 01Abr2009 a 13Abr2009, 
+04-PA-Bannach.txt;odo de 11/08/2003 a 15/08/2003, 
+RM38040-PR-Lunardelli.txt;odo de 18/03/2013 a 22/03/2013. 
+ESPECIAL_02_PAC-MG-Capelinha.txt;odo de 01Abr2009 a 17Abr2009, 
+25-MS-Agua_Clara.txt;odo de 17Out2007 a 14Dez2007, 
+09-RJ-Tres_Rios.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+25-RN-Baia_Formosa.txt;odo de 17Out2007 a 14Fev2008, 
+16-BA-Boninal.txt;odo de 27/06/2005 a 01/07/2005, sendo
+20-AL-Cha_Preta.txt;odo de 23Mar2006 a 23Jun2006, 
+23-MG-Teofilo_Otoni.txt;odo de 14Mai2007 a 31Ago2007, 
+08-MA-Olho_D_Agua_das_Cunhas.txt;odo 26 a 30/04/2004. 
+25-RS-Candelaria.txt;odo de 16Out2007 a 14Dez2007, 
+34-AM-Urucurituba.txt;odo de 29/08/2011 a 02/10/2011. 
+30-CE-Acarape.txt;odo de 13Out2009 a 02Dez2009, 
+29-BA-Itabuna.txt;odo de 01Out2009 a 30Out2009, 
+11-GO-Jaragua.txt;odo de 12.
+12-PE-Igarassu.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas de coleta de , 
+17-PB-Gurjao.txt;odo 27/6 a 1/7/2005 sendo , 
+RM36024-SE-Japoata.txt;odo de 06/08/2012 a 22/08/2012. 
+10-BA-Contendas_do_Sincora.txt;odo de 14 a 18/06/2004, sendo
+32-SC-Capinzal.txt;odo de 17Mai2010 a 15Jul2010, 
+06-AL-Sao_Luis_do_Quitunde.txt;odo de 29/10 a 05/11/2003, sendo
+35-GO-Diorama.txt;odo de 17/10/2011 a 21/10/2011. 
+13-MG-Divinopolis.txt;odo de 08 a 12 de novembro de 2004 sendo utilizados em sua execução inspeções , 
+28-MT-Tangara_da_Serra.txt;odo de 01Jul2009 a 30Jun2009, 
+03-AC-Placido_de_Castro.txt;odo de 30/06/2003 a 04/07/2003, sendo
+11-SC-Porto_Uniao.txt;odo de 12/07/2004 a 16/07/2004, sendo
+RM38031-PA- Vigia.txt;odo de 11/03/2013 a 22/03/2013. 
+34-RS-Bento_Goncalves.txt;odo de 29/08/2011 a 02/09/2011. 
+25-GO-Crominia.txt;odo de 02Jan2008 a 11Fev2008, 
+08-MT-Nova_Nazare.txt;odo 12 a 15/04/04 sendo utilizados em sua execução as seguintes técnicas e procedimentos: inspeções físicas e documentais, 
+09-MG-Capelinha.txt;odo de 17 a 21 de maio de 2004, sendo
+29-ES-Alegre.txt;odo de 01Out2009 a 19Nov2009, 
+03-MG-Tarumirim.txt;odo de 30/06/2003 a 04/07/2003, sendo
+13-MT-Alta_Floresta.txt;odo de 08 a 17/11/2004, sendo
+03-TO-Araguaina.txt;odo de 30/06/2003 à 04/07/2003, sendo
+RM36022-RN-Monte Alegre.txt;odo de 06/08/2012 a 30/08/2012. 
+26-PR-Moreira_Sales.txt;odo de 12Mai2008 a 30Jun2008, 
+27-AL-Tanque_DArca.txt;odo de 05Nov2008 a 30Dez2008, 
+03-MG-Jacinto-19A.txt;odo de 29/06/2003 a 03/07/2003, sendo
+30-PE-Venturosa.txt;odo de 13Out2009 a 18Dez2009, 
+12-SP-Piratininga.txt;odo 23 a 27 de agosto de 2004 sendo utilizados em sua execução as técnicas e , 
+28-MG-Volta_Grande.txt;odo de 01Jul2009 a 05Ago2009, 
+03-MG-Rio_Pomba.txt;odo de 30/06/2003 à 04/07/2003, sendo
+30-PI-Caridade_do_Piaui.txt;odo de 13Out2009 a 16Dez2009, 
+24-MG-Divinesia.txt;odo de 01Ago2007 a 24Out2007, 
+28-MG-Francisco_Dumont.txt;odo de 01Jul2009 a 14Ago2009, 
+22-SP-Pirapora_do_Bom_Jesus.txt;odo de 26Jul2006 a 23Nov2006, 
+ESPECIAL_01_PAC-SP-Piracicaba.txt;odo de 25Ago2008 a 30Set2008, 
+14-PE-Lagoa_do_Carro.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de coleta de , 
+09-MT-Claudia.txt;odo 17 a 21/05/04 sendo utilizados em sua execução as seguintes técnicas e procedimentos: inspeções físicas e documentais, 
+ESPECIAL_02_PAC-CE-Capistrano.txt;odo de 02Abr2009 a 03Abr2009, 
+19-GO-Caiaponia.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+ESPECIAL_02_PAC-PI-Caracol.txt;odo de 10Mar2009 a 27Mar2009, 
+03-PI-Miguel_Alves.txt;odo de 30/06/2003 a 04/07/2003, sendo
+RM38024-MG- Vargem Bonita.txt;odo de 18/03/2013 a 22/03/2013. 
+21-MG-Mesquita.txt;odo de 12Jun2005 a 09Ago2006, 
+30-CE-Itatira.txt;odo de 13Out2009 a 22Dez2009, 
+33-MG-Sao_Joaquim_de_Bicas.txt;odo de 03Ago2010 a 06Out2010, 
+05-PI-Currais.txt;odo de 15/09/2003 a , 
+07-RS-Ibiaca.txt;odo de 24/11/2003 a , 
+15-MG-Icarai_de_Minas.txt;odo 02 a a06 de maio de 2005 sendo utilizados em sua execução , 
+RM38056-SP-Fernandopolis.txt;odo de 18/03/2013 a 22/03/2013. 
+14-SC-Braco_do_Norte.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas as técnicas e , 
+22-SP-Maracai.txt;odo de 26Jul2006 a 06Nov2006, 
+ESPECIAL_01_PAC-PE-Exu.txt;odo de 01Out2008 a 06Out2008, 
+33-MG-Mateus_Leme.txt;odo de 03Ago2010 a 05Out2010, 
+23-PI-Jatoba_do_Piaui.txt;odo de 21Mai2007 a 29Jun2007, 
+21-PR-Borrazopolis.txt;odo de 12Jun2006 a 11Ago2006, 
+08-GO-Buriti_de_Goias.txt;odo de 12.
+26-PA-Pacaja.txt;odo de 01Jul2008 a 14Jul2008, 
+25-MG-Raposos.txt;odo de 29Out2007 a 31Dez2007, 
+07-ES-Iconha.txt;odo de 24/11/2003 a , 
+17-PR-Nova_Tebas.txt;odo de 29/08/2005 a 02/09/2005, sendo
+26-BA-Nova_Vicosa.txt;odo de 05Mai2008 a 21Jul2008, 
+30-MA-Buritirana.txt;odo de 13Out2009 a 18Dez2009, 
+17-MA-Bernardo_do_Mearim.txt;odo de 29 de agosto a 02 de setembro de 2005, sendo
+10-PE-Dormentes.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as técnicas e procedimentos utilizadas nas fiscalizações e auditorias governamentais, 
+RM38050-SC-Ararangua.txt;odo de 18/03/2013 a 22/03/2013. 
+10-RN-Umarizal.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as , 
+17-RJ-Teresopolis.txt;odo de 29/08/05 a 02/09/05 sendo utilizados em sua execução,
+06-BA-Varzedo.txt;odo de 27/10/2003 a , 
+28-PE-Itapissuma.txt;odo de 01Jul2009 a 14Jul2009, 
+ESPECIAL_02_PAC-TO-Palmeiras_do_Tocantins.txt;odo de 11Mar2009 a 31Mar2009, 
+24-BA-Curaca.txt;odo de 01Ago2007 a 19Set2007, 
+08-CE-Pacuja.txt;odo de 26 a 30/4/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicos e documentais, 
+ESPECIAL_02_PAC-RN-Parnamirim.txt;odo de 01Abr2009 a 13Mai2009, 
+23-RS-Cachoeirinha.txt;odo de 17Mai2007 a 29Jun2007, 
+11-SP-Severinia.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução técnicas e , 
+11-RS-Arroio_dos_Ratos.txt;odo de 26 a 30/07/2004, sendo
+ESPECIAL_01_PAC-RN-Parau.txt;odo de 21Ago2008 a 19Set2008, 
+25-GO-Araguapaz.txt;odo de 02Jan2008 a 29Fev2008, 
+05-AP-Porto_Grande.txt;odo de 15/09/2003 a , 
+21-RJ-Bom_Jardim.txt;odo de 19Jun2006 a 01Ago2006, 
+08-CE-Granja.txt;odo de 26 a 30/4/2004 e 29/6 a 9/7/2004 sendo utilizados em sua execução inspeções físicas e documentais, 
+08-RS-Rodeio_Bonito.txt;odo de 26/04/2004 a 30/04/2004, sendo
+06-SE-Pedra_Mole.txt;odo de 29/10 a , 
+24-MG-Piedade_de_Ponte_Nova.txt;odo de 01Out2007 a 25Out2007, 
+27-BA-Gandu.txt;odo de 04Nov2008 a 05Fev2009, 
+ESPECIAL_01_PAC-RS-Estancia_Velha.txt;odo de 25Ago2008 a 01Set2008, 
+ESPECIAL_02_PAC-GO-Padre_Bernardo.txt;odo de 01Abr2009 a 24Abr2009, 
+21-RN-Pau_dos_Ferros.txt;odo de 12Jun2006 a 15Ago2006, 
+12-PE-Buique.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+20-BA-Mutuipe.txt;odo de 30Mar2006 a 07Jun2006, 
+20-PE-Timbauba.txt;odo de 30Mar2006 a 13Jun2006, 
+ESPECIAL_02_PAC-PA-Bonito.txt;odo de 06Abr2009 a 04Mai2009, 
+03-MA-Cajari.txt;odo de 30/06/2003 a 04/07/2003, sendo
+19-RS-Nova_Santa_Rita.txt;odo de 21 a 25/11/2005, sendo
+28-BA-Presidente_Tancredo_Neves.txt;odo de 01Jul2009 a 30Jun2009, 
+13-BA-Salinas_da_Margarida.txt;odo de 8 a 12 de novembro de 2004 sendo utilizados em sua execução as técnicas e , 
+33-MS-Corguinho.txt;odo de 02Ago2010 a 22Set2010, 
+34-SP-Poa.txt;odo de 29/08/2011 a 02/09/2011. 
+26-AM-Tapaua.txt;odo de 09Mai2008 a 06Jun2008, 
+30-PA-Santarem.txt;odo de 13Out2009 a 21Dez2009, 
+09-CE-Pacajus.txt;odo 17 a 21/5/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+23-SP-Nova_Canaa_Paulista.txt;odo de 16Mai2007 a 02Jul2007, 
+04-PI-Massape_do_Piaui.txt;odo de 11/08/2003 a 15/08/2003, sendo
+02-AL-Japaratinga.txt;odo de 19/05/2003 à 24/05/2003, sendo
+33-PE-Pesqueira.txt;odo de 02Ago2010 a 01Out2010, 
+25-MA-Imperatriz.txt;odo de 22Out2007 a 20Dez2007, 
+27-BA-Gloria.txt;odo de 04Nov2008 a 23Dez2008, 
+29-MG-Montes_Claros.txt;odo de 01Out2009 a 25Jan2010, 
+15-PA-Jacareacanga.txt;odo de 02 a 06/05/2005 sendo utilizados em sua execução técnicas , 
+26-RJ-Marica.txt;odo de 05Mai2008 a 04Jul2008, 
+32-MG-Campestre.txt;odo de 01Jul2010 a 23Ago2010, 
+15-PR-Nova_Esperanca.txt;odo de 02/05/2005 a 06/05/2005, sendo
+13-PI-Sao_Joao_do_Piaui.txt;odo de 08 a 19/11/2004, sendo
+13-SC-Xaxim.txt;odo de 08/11/2004 a 12/11/2004, sendo
+20-AP-Macapa.txt;odo de 30Mar2006 a 09Mai2006, 
+31-CE-Granja.txt;odo de 09Mar2010 a 31Mar2010, 
+17-ES-Rio_Novo_do_Sul.txt;odo 29/08 a 16/09/2005 sendo utilizados em sua execução as,
+33-SP-Mirassol.txt;odo de 01Out2010 a 18Out2010, 
+10-AM-Iranduba.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as técnicas e , 
+14-MG-Guaranesia.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+23-PE-Arcoverde.txt;odo de 16Mai2007 a 13Jul2007, 
+24-PB-Pirpirituba.txt;odo de 01Ago2007 a 14Nov2007, 
+31-MG-Frei_Inocencio.txt;odo de 01Abr2010 a 18Jun2010, 
+07-SP-Jacupiranga.txt;odo de 24/11/2003 a , 
+23-PR-Santa_Tereza_do_Oeste.txt;odo de 16Mai2007 a 25Jun2007, 
+31-PR-Venceslau_Braz.txt;odo de 01Mar2010 a 17Mai2010, 
+RM36016-PE-Condado.txt;odo de 06/08/2012 a 14/08/2012. 
+33-SC-Urussanga.txt;odo de 02Ago2010 a 30Set2010, 
+17-MG-Santa_Barbara_do_Leste.txt;odo 29 de agosto a 02 de setembro de 2005 sendo utilizados em sua,
+24-MA-Nina_Rodrigues.txt;odo de 30Jul2007 a 05Out2007, 
+28-RS-Viamao.txt;odo de 20Mai2009 a 30Jun2009, 
+17-PE-Jupi.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as,
+ESPECIAL_01_PAC-GO-Jaupaci.txt;odo de 01Out2008 a 03Out2008, 
+ESPECIAL_01_PAC-PR-Inaja.txt;odo de 25Ago2008 a 10Set2008, 
+11-BA-Gandu.txt;odo de 19 a 23/07/2004, sendo
+28-PB-Caturite.txt;odo de 01Jun2009 a 30Jun2009, 
+RM37056-SP-Paraiso.txt;odo de 22/10/2012 a 26/10/2012. 
+21-CE-Milha.txt;odo de 12Jun2006 a 01Ago2006, 
+16-AL-Batalha.txt;odo de 27/06 a 07/07/2005 sendo utilizados em sua execução as , 
+22-SP-Itapui.txt;odo de 26Jul2006 a 25Out2006, 
+31-CE-Mucambo.txt;odo de 09Mar2010 a 31Mar2010, 
+16-CE-Sobral.txt;odo de 27/6 a 8/7/2005 sendo utilizados em sua execução inspeções , 
+11-SC-Papanduva.txt;odos de 26 a 30/07 e 13 a 16/09/2004, sendo
+28-MG-Sao_Goncalo_do_Abaete.txt;odo de 01Jul2009 a 13Ago2009, 
+16-GO-Professor_Jamil.txt;odo de 27.
+14-PR-Manoel_Ribas.txt;odo de 29/11/2004 a 03/12/2004, sendo
+16-MT-Vila_Rica.txt;odo de 27.
+22-MA-Turilandia.txt;odo de 24Jul2006 a 22Set2006, 
+11-PR-Santa_Izabel_do_Oeste.txt;odo de 12/07/2004 a 16/07/2004, sendo
+02-PI-Alvorada_do_Gurgueia.txt;odo de 19/05/2003 à 24/05/2003, 
+34-TO-Novo_Acordo.txt;odo de 29/08/2011 a 20/09/2011. 
+11-PI-Agua_Branca.txt;odo 19 a 23.
+ESPECIAL_01_PAC-MT-Tangara_da_Serra.txt;odo de 20Ago2008 a 25Set2008, 
+28-RN-Espirito_Santo.txt;odo de 01Jul2009 a 24Jul2009, 
+32-GO-Americano_do_Brasil.txt;odo de 13Mai2010 a 30Ago2010, 
+04-CE-Horizonte.txt;odo de 11/08/2003 a 15/08/2003, sendo
+18-SE-Sao_Domingos.txt;odo de 17 a 21/10/2005 sendo utilizados em sua,
+20-PI-Santo_Antonio_dos_Milagres.txt;odo de 27Mar2006 a 20Abr2006, 
+RM36010-MS-Dourados.txt;odo de 06/08/2012 a 15/08/2012. 
+15-SP-Bofete.txt;odo de 02 a 06 de maio de 2005 sendo utilizados em sua execução , 
+09-MG-Matipo.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução as técnicas e procedimentos como inspeções físicas e documentais, 
+RM38014-GO- Guarani de Goias.txt;odo de 18/03/2013 a 22/03/2013. 
+5398_ RM37027-PA-Aurora do Para.txt;odo de 22/10/2012 a 26/10/2012. 
+24-MG-Fama.txt;odo de 01Ago2007 a 26Out2007, 
+23-PR-Quatro_Barras.txt;odo de 17Mai2007 a 12Jul2007, 
+28-CE-Pires_Ferreira.txt;odo de 20Mai2009 a 17Jun2009, 
+ESPECIAL_02_PAC-MG-Sarzedo.txt;odo de 01Abr2009 a 09Abr2009, 
+23-PB-Ouro_Velho.txt;odo de 16Mai2007 a 12Jun2007, 
+29-SP-Presidente_Epitacio.txt;odo de 01Out2009 a 30Set2009, 
+17-MG-Guidoval.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as,
+05-PA-Bom_Jesus_do_Tocantis.txt;odo de 15.
+26-AL-Girau_do_Ponciano.txt;odo de 07Mai2008 a 30Jun2008, 
+RM37023-MG-Vazante.txt;odo de 21/10/2012 a 26/10/2012. 
+14-RN-Santo_Antonio.txt;odo de 29/11/2004 a 03/12/2004 sendo utilizados em sua execução as técnicas de , 
+10-AL-Traipu.txt;odo de 14/06 a 18/06/2004 sendo utilizados em sua execução as técnicas e , 
+04-MT-Confresa.txt;odo de 11/08/2003 a 15/08/2003, sendo
+04-SE-Pirambu.txt;odo de 11/08/2003 a 15/08/2003, sendo
+19-BA-Camacan.txt;odo de 21/11/2005 a 25/11/2005, sendo
+11-PA-Colares.txt;odo de 12 a 23/07/2004, 
+32-BA-Arataca.txt;odo de 01Jul2010 a 09Ago2010, 
+05-SC-Peritiba.txt;odo de 15/09/2003 a 19/09/2003, sendo
+10-PB-Sao_Bentinho.txt;odo 14/6/2004 a 18/6/2004 sendo , 
+04-PE-Rio_Formoso.txt;odo de 11/08/2003 a 18/08/2003, sendo
+09-AM-Nhamunda.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+27-PA-Cachoeira_do_Piria.txt;odo de 05Nov2008 a 26Dez2008, 
+RM38038- PI - Manoel Emidio.txt;odo de 18/03/2013 a 22/03/2013. 
+14-SP-Florinia.txt;odo de 29 de novembro a 02 de dezembro de 2004 sendo utilizados em sua execução , 
+13-AM-Envira.txt;odo de 08 a 12.
+08-PA-Moju.txt;odo de 26 à 30.
+14-GO-Colinas_do_Sul.txt;odo 29.
+05-SC-Zortea.txt;odo de 15/09/2003 a 19/09/2003, sendo
+12-MG-Arapora.txt;odo de 23 a 27 de agosto, sendo
+13-SP-Aluminio.txt;odo de 8 a 12 de novembro de 2004 sendo utilizadas em sua execução as técnicas de , 
+24-MA-Cedral.txt;odo de 26Jul2007 a 03Set2007, 
+18-MG-Caete.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua execução as técnicas de,
+06-PA-Igarape-acu.txt;odo de 29/10/2003 a , 
+32-BA-Iuiu.txt;odo de 01Jul2010 a 09Ago2010, 
+RM37034-PE-Xexeu.txt;odo de 22/10/2012 a 26/10/2012. 
+17-SP-Poloni.txt;odo de 29 de agosto a 02 de setembro de 2005, sendo
+11-RJ-Mendes.txt;odo de 12/07/2004 a 16/07/2004 sendo utilizados em sua execução as seguintes , 
+35-RN-Itau.txt;odo de 17/10/2011 a 24/10/2011. 
+18-PR-Astorga.txt;odo de 17/10/2005 a 21/10/2005, sendo
+34-PR-Araucaria.txt;odo de 29/08/2011 a 02/09/2011. 
+21-BA-Andarai.txt;odo de 08Jun2006 a 27Jul2006, 
+32-RJ-Cardoso_Moreira.txt;odo de 17Mai2010 a 01Ago2010, 
+05-RN-Lagoa_de_Pedras.txt;odo de 15/09/2003 a 19/09/2003, sendo
+23-SE-Riachuelo.txt;odo de 16Mai2007 a 28Jun2007, 
+ESPECIAL_02_PAC-BA-Santa_Luzia.txt;odo de 01Abr2009 a 31Mar2009, 
+19-SP-Itapeva.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as,
+22-MG-Ipaba.txt;odo de 17Jul2006 a 20Set2006, 
+31-PB-Caldas_Brandao.txt;odo de 01Abr2010 a 23Abr2010, 
+24-SP-Flora_Rica.txt;odo de 02Ago2007 a 14Set2007, 
+05-RS-Bozano.txt;odo de 15/09/2003 a , 
+05-GO-Goias.txt;odo de 15/09/2003 a , 
+24-PB-Bom_Sucesso.txt;odo de 30Jul2007 a 24Set2007, 
+15-PI-Sao_Miguel_do_Fidalgo.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+30-BA-Wagner.txt;odo de 13Out2009 a 17Dez2009, 
+28-PE-Arcoverde.txt;odo de 19Mai2009 a 07Ago2009, 
+33-PI-Santa_Rosa_do_Piaui.txt;odo de 02Ago2010 a 30Set2010, 
+30-PR-Nova_Santa_Rosa.txt;odo de 13Out2009 a 04Dez2009, 
+31-RS-Arroio_do_Meio.txt;odo de 08Mar2010 a 13Mai2010, 
+34-MA-Bela_Vista_do_Maranhao.txt;odo de 28/08/2011 a 02/09/2011. 
+05-RJ-Paraiba_do_Sul.txt;odo de 15/09/2003 a , 
+07-AM-Careiro.txt;odo de 24/11/2003 a , 
+05-PE-Itapissuma.txt;odo de 15/09/2003 a , 
+21-PA-Ourem.txt;odo de 12Jun2006 a 23Ago2006, 
+RM38023-MG-Rodeiro.txt;odo de 18/03/2013 a 22/03/2013. 
+29-RS-Sao_Francisco_de_Assis.txt;odo de 24Ago2009 a 19Out2009, 
+10-CE-FariasBrito.txt;odo de 14 a 18/6/2004 sendo utilizados , 
+05-CE-Varjota.txt;odo de 15/09/2003 a , 
+20-MG-Medina.txt;odo de 30Mar2006 a 29Set2006, 
+14-TO-Campos_Lindos.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas e , 
+15-MG-Santana_do_Manhuacu.txt;odo de 02 a 06/05/2005 sendo utilizados em sua execução as , 
+ESPECIAL_01_PAC-CE-Tamboril.txt;odo de 19Ago2008 a 22Set2008, 
+29-AL-Olho_Dagua_Grande.txt;odo de 24Ago2009 a 19Nov2009, 
+19-PB-Malta.txt;odo 21 a 25/11/2005 sendo utilizadas em sua execução as técnicas,
+RM37028-PA-Castanhal.txt;odo de 22/10/2012 a 01/11/2012. 
+35-SP-Sao_Sebastiao_da_Grama.txt;odo de 17/10/2011 a 21/10/2011. 
+23-MG-Guarara.txt;odo de 16Mai2007 a 13Ago2007, 
+09-TO-Paraiso_do_Tocantins.txt;odo de 17 a 21/04/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+31-MA-Agua_doce_do_maranhao.txt;odo de 10Mar2010 a 07Mai2010, 
+17-MG-Sapucai_Mirim.txt;odo de 29 de agosto a 02 de setembro de 2005 sendo utilizados em , 
+25-SP-Ribeira.txt;odo de 17Out2007 a 26Dez2007, 
+23-BA-Ichu.txt;odo de 15Mai2007 a 29Jun2007, 
+05-AC-Cruzeiro_do_Sul.txt;odo de 15/09/2003 a , 
+35-BA-Barreiras.txt;odo de 17/10/2011 a 21/10/2011. 
+24-PA-Oeiras_do_Para.txt;odo de 01Ago2007 a 14Set2007, 
+13-BA-Apora.txt;odo de 08/11/2004 a 12/11/2004 sendo utilizados em sua execução as técnicas: inspeções , 
+24-MS-Paranhos.txt;odo de 01Ago2007 a 19Out2007, 
+29-PI-Matias_Olimpio.txt;odo de 26Ago2009 a 30Out2009, 
+34-GO-Nova_Gloria.txt;odo de 29/08/2011 a 02/09/2011. 
+RM37004-BA-Olindina.txt;odo de 22/10/2012 a 26/10/2012. 
+08-ES-Pedro_Canario.txt;odo de 12 a 16/04/2004 sendo utilizados em sua execução as seguintes técnicas e procedimentos: inspeções físicas, 
+17-PA-Placas.txt;odo 29/08 a 02/09/2005 sendo utilizados em sua execução as,
+14-PA-Portel.txt;odo de 29/11 a 03/12/2004, 
+16-MT-Feliz_Natal.txt;odo 27.
+RM37060-TO-Tupirama.txt;odo de 22/10/2012 a 26/10/2012. 
+04-MA-Milagres_do_Maranhao.txt;odo de 11/08/2003 a 16/08/2003, 
+ESPECIAL_02_PAC-MA-Buriticupu.txt;odo de 09Mar2009 a 31Mar2009, 
+11-RN-Upanema.txt;odo de 26 a 30/07/2004 sendo utilizados em sua execução as técnicas e , 
+17-AL-Olho_dAgua_Grande.txt;odo de 29/08 a 06/09/2005 sendo utilizados em sua execução as , 
+RM37050-SC-Flor do Sertao.txt;odo de 22/10/2012 a 23/11/2012. 
+ESPECIAL_02_PAC-RS-Mato_Queimado.txt;odo de 27Abr2009 a 28Abr2009, 
+17-SP-Araras.txt;odo de 29 de agosto a 02 de setembro de 2005, sendo
+RM37057-SP-Patrocinio Paulista.txt;odo de 22/10/2012 a 26/10/2012. 
+09-SP-Morro_Agudo.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução técnicas e procedimentos tais como, 
+32-SE-Nossa_Senhora_das_Dores.txt;odo de 19Mai2010 a 03Ago2010, 
+04-CE-Redencao.txt;odo de 11/08/2003 a 15/08/2003, sendo
+12-SP-Paraibuna.txt;odo de 23 a 27 de agosto de 2004 sendo utilizadas em sua execução as técnicas de , 
+04-MA-Cedral.txt;odo de 11/08/2003 a 15/08/2003, 
+18-MA-Fortaleza_dos_Nogueiras.txt;odo de 17 a 21 de outubro de 2005, sendo
+02-RJ-Porciuncula.txt;odo de 19/05/2003 à 24/05/2003, sendo
+08-MG-Santa_Rita_de_Caldas.txt;odo de 12 a 16 de abril de 2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais e realizações de entrevistas. 
+23-SP-Itarare.txt;odo de 16Mai2007 a 29Jun2007, 
+21-AL-Teotonio_Vilela.txt;odo de 19Jun2006 a 31Ago2006, 
+19-RS-Paim_Filho.txt;odo de 17 a 21/10/2005, sendo
+24-CE-Lavras_da_Mangabeira.txt;odo de 30Jul2007 a 28Set2007, 
+15-MG-Paraguacu.txt;odo de 02 a 06 de maio de 2005 sendo utilizados em sua execução , 
+12-PA-Sao_Felix_do_Xingu.txt;odo de 23 à 27.
+09-PA-Maracana.txt;odo de 17 à 28.
+RM36021-RJ-Arraial do Cabo.txt;odo de 06/08/2012 a 10/08/2012. 
+34-MG-Minduri.txt;odo de 29/08/2011 a 02/09/2011. 
+31-MA-Arari.txt;odo de 09Mar2010 a 01Jun2010, 
+24-CE-Acarau.txt;odo de 30Jul2007 a 28Set2007, 
+14-RS-Hulha_Negra.txt;odo de 29/11 a 03/12/2004, sendo
+31-RN-Jardim_do_Serido.txt;odo de 01Abr2010 a 14Mai2010, 
+15-PE-Araripina.txt;odo de 02 a 06/05/ sendo utilizados em sua execução as técnicas de , 
+23-ES-Conceicao_do_Castelo.txt;odo de 15Mai2007 a 30Jul2007, 
+05-MA-Itapecuru_Mirim.txt;odos de 15 a , 
+18-SP-Pacaembu.txt;odo de 17 a 21 de outubro de 2005, sendo
+25-PR-Santa_Cecilia_do_Pavao.txt;odo de 17Out2007 a 10Dez2007, 
+13-MG-Tres_Coracoes.txt;odo de 07 a 12 de novembro de 2004 sendo utilizados em sua execução as técnicas e , 
+14-SP-Monte_Castelo.txt;odo de 29 de novembro a 03 de dezembro de 2.
+25-PE-Saire.txt;odo de 18Out2007 a 14Nov2007, 
+16-CE-Croata.txt;odo de 27/6 a 1/7/2005 sendo utilizados em sua execução inspeções , 
+10-ES-Colatina.txt;odo de 14 a 18/06 e de 21 a 23/06/2004 sendo utilizados em sua , 
+32-PR-Pinhalao.txt;odo de 17Mai2010 a 21Jul2010, 
+08-RJ-Quissama.txt;odo 26/04 a 30/04/04 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+13-MG-Felixlandia.txt;odo de 08 a 12 de novembro de 2004 sendo utilizados em sua execução inspeções , 
+14-MA-Cantanhede.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de , 
+09-MG-Espera_Feliz.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais e realizações de entrevistas. 
+24-MT-Nova_Bandeirantes.txt;odo de 01Ago2007 a 14Set2007, 
+15-RN-Bodo.txt;odo 02 a 13/05/2005 sendo utilizados em sua execução as técnicas de , 
+09-PR-Rio_Azul.txt;odo de 17/05/2004 a 21/05/2004, sendo
+RM38055-SP-Bastos.txt;odo de 18/03/2013 a 22/03/2013. 
+25-CE-Nova_Russas.txt;odo de 01Jan2008 a 18Jan2008, 
+09-SE-Neopolis.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+26-RS-Santo_Antonio_da_Patrulha.txt;odo de 11Jun2008 a 14Ago2008, 
+14-BA-Marau.txt;odo de 29/11 a 03/12/2004, sendo
+08-BA-Itagimirim.txt;odo de 12/04/2004 a 16/04/2004 sendo utilizados em sua execução as seguintes técnicas/procedimentos: inspeções físicas e documentais, 
+19-BA-Rodelas.txt;odo de 21/11/2005 a 25/11/2005, sendo
+03-AP-Oiapoque.txt;odo de 30/06/2003 a 04/07/2003, sendo
+28-ES-Alto_Rio_Novo.txt;odo de 21Mai2009 a 13Ago2009, 
+12-RN-Riacho_de_Santana.txt;odo 23 a 27/08/2004 sendo utilizados em sua , 
+ESPECIAL_01_PAC-RS-Tunas.txt;odo de 02Out2008 a 02Out2008, 
+14-GO-Simolandia.txt;odo de 29.
+31-AM-Tefe.txt;odo de 12Mar2010 a 03Mai2010, 
+24-RN-Montanhas.txt;odo de 01Ago2007 a 01Nov2007, 
+04-PB-Juazeirinho.txt;odo de 11/08/2003 a 15/08/2003, sendo
+06-PI-Curral_Novo_do_Piaui.txt;odo de 05/11/2003, sendo
+16-RJ-Tangua.txt;odo de 27 de junho a 1° de julho sendo utilizados em sua execução,
+10-SC-Sao_Cristovao_do_Sul.txt;odo de 14/06/2004 a 25/06/2004, sendo
+34-PR-Paranagua.txt;odo de 29/08/2011 a 02/09/2011. 
+26-SP-Itapevi.txt;odo de 09Mai2008 a 30Jun2008, 
+RM38025-MG-Varzea da Palma.txt;odo de 18/03/2013 a 22/03/2013. 
+31-PA-Itaituba.txt;odo de 09Mar2010 a 20Mai2010, 
+27-PR-Vera_Cruz_do_Oeste.txt;odo de 03Nov2008 a 31Dez2008, 
+30-RO-Pimenta_Bueno.txt;odo de 14Out2009 a 02Mar2010, 
+30-BA-Cruz_das_Almas.txt;odo de 01Jan2010 a 02Fev2010, 
+26-CE-Mucambo.txt;odo de 02Mai2008 a 19Jun2008, 
+30-PA-Pau_D_Arco.txt;odo de 14Out2009 a 15Dez2009, 
+32-MS-Maracaju.txt;odo de 01Jul2010 a 19Jul2010, 
+04-RJ-Cabo_Frio.txt;odo de 11/08/2003 a 15/08/2003, sendo
+27-MA-Presidente Sarney.txt;odo de 05Nov2008 a 09Jan2009, 
+11-BA-Teofilandia.txt;odo de 19 a 23/07/2004, sendo
+17-SP-Roseira.txt;odo de 29 de agosto de 2005 a 02 de setembro de 2005 sendo utilizados em,
+03-RR-Mucajai.txt;odo de 30/06/2003 a 04/07/2003, sendo
+02-AM-Alvaraes.txt;odo de 19/05/2003 à 24/05/2003, sendo
+05-PE-Saloa.txt;odo de 15 a , 
+14-MT-Tesouro.txt;odo de 29.
+27-RO-Cabixi.txt;odo de 02Nov2008 a 18Dez2008, 
+16-MG-Entre_Folhas.txt;odo de 27/06 a 01/07/2005 sendo utilizados em sua execução as,
+11-PB-Cruz_do_Espirito_Santo.txt;odo de 19 a 29/7/2004 sendo utilizados em sua execução as técnicas e procedimentos , 
+33-MG-Taquaracu_de_Minas.txt;odo de 03Ago2010 a 30Set2010, 
+ESPECIAL_02_PAC-SC-Balneario_Picarras.txt;odo de 01Abr2009 a 24Abr2009, 
+RM38028-MT- Nova Canaa do Norte.txt;odo de 18/03/2013 a 22/03/2013. 
+10-PB-Lucena.txt;odo de 14 a 18/6/2004 sendo utilizados em sua execução as técnicas e procedimentos de , 
+21-MG-Itauna.txt;odo de 12Jun2006 a 10Ago2006, 
+RM37010-CE-Tejucuoca.txt;odo de 22/10/2012 a 26/10/2012. 
+13-AC-Mancio_Lima.txt;odo 08 a 12 de novembro de 2004 sendo utilizados em sua execução , 
+29-SC-Imarui.txt;odo de 24Ago2009 a 25Set2009, 
+13-PR-Corbelia.txt;odo de 08/11/2004 a 12/11/2004, sendo
+15-RN-Apodi.txt;odo 02 a 13/05/2005 sendo utilizados em sua execução as técnicas de , 
+02-AC-Marechal_Thaumaturgo.txt;odo de 19/05/2003 à 24/05/2003, sendo
+19-SP-Itirapina.txt;odo de 21 a 25 de novembro de 2005 sendo utilizados em sua,
+15-SP-Cabreuva.txt;odo de 02 a 06/05/2005 sendo utilizados em sua execução as , 
+19-RS-Paverama.txt;odo de 21 a 25/11/2005, sendo
+11-MG-Betim.txt;odo de 26 a 30 de julho de 2004, sendo
+20-SP-Serrana.txt;odo de 31Mar2006 a 02Jun2006, 
+13-RS-Sobradinho.txt;odo de 08 a 12 de novembro de 2004, sendo
+14-MG-Borda_da_Mata.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+20-MG-Piedade_dos_Gerais.txt;odo de 30Mar2006 a 02Mai2006, 
+32-RR-Normandia.txt;odo de 18Mai2010 a 25Jun2010, 
+29-MG-Catuti.txt;odo de 01Out2009 a 16Dez2009, 
+13-RS-Canela.txt;odo de 08 a 19 de novembro de 2004 sendo utilizados em sua execução as técnicas de , 
+07-SC-Campo_Belo_do_Sul.txt;odo de 24/11/2003 a 28/11/2003, sendo
+23-MA-Alto_Alegre_do_Pindare.txt;odo de 16Mai2007 a 20Jun2007, 
+15-RS-Alvorada.txt;odo de 02 a 06/05/2005, sendo
+16-BA-Vereda.txt;odo de 27/06/2005 a 01/07/2005, sendo
+07-PE-Pombos.txt;odo de 24 a 28/11/2003 sendo utilizados em sua execução as técnicas e procedimentos utilizadas nas fiscalizações e auditorias governamentais, 
+30-PI-Barra_D_Alcantara.txt;odo de 13Out2009 a 02Jan2010, 
+27-RS-Tres_Arroios.txt;odo de 05Nov2008 a 08Jan2009, 
+33-ES-Laranja_da_Terra.txt;odo de 02Ago2010 a 11Out2010, 
+28-PI-Sebastiao_Barros.txt;odo de 18Mai2009 a 23Jul2009, 
+2445_ RM36014-PB-Mamanguape.txt;odo de 08/08/2012 a 17/08/2012. 
+32-PB-Riacho_dos_Cavalos.txt;odo de 17Mai2010 a 18Jun2010, 
+15-MA-Sucupira_do_Norte.txt;odo de 2 a 6/5/2005 sendo utilizados em sua execução as técnicas de inspeções , 
+16-GO-Rio_Quente.txt;odo de 20.
+03-CE-Apuiares.txt;odo de 30/6/2003 à 4/7/2003, sendo
+04-RJ-Armacao_dos_Buzios.txt;odo de 11/08/2003 a 15/08/2003, sendo
+19-BA-Capela_do_Alto_Alegre.txt;odo de 21/11/2005 a 26/11/2005, sendo
+07-MG-Barbacena.txt;odo de 24 a 28 de novembro de 2003, sendo
+22-PE-Iati.txt;odo de 21Jul2006 a 14Nov2006, 
+27-TO-Pindorama_do_Tocantins.txt;odo de 04Nov2008 a 19Dez2008, 
+ESPECIAL_02_PAC-RS-Vacaria.txt;odo de 10Mar2009 a 19Mar2009, 
+06-PE-Floresta.txt;odo de 27 a , 
+09-RN-Santa_Cruz.txt;odo de 17/05 a 28/05/2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais, 
+RM37055-SP-Joanopolis.txt;odo de 22/10/2012 a 26/10/2012. 
+04-PB-Curral_Velho.txt;odo de 11/8/2003 a 15/8/2003, sendo
+06-RJ-Angra_dos_Reis.txt;odo de 29/10/2003 a , 
+13-SE-Cristinapolis.txt;odo de 08 a 12/11/2004 sendo utilizados em sua execução as técnicas e , 
+20-RN-Sao_Bento_do_Norte.txt;odo de 06Abr2006 a 04Jul2006, 
+26-SE-Malhador.txt;odo de 07Mai2008 a 04Jul2008, 
+22-RS-Chuvisca.txt;odo de 26Jul2006 a 08Set2006, 
+03-MS-Amambai.txt;odo de 30/06/2003 a 04/07/2003, sendo
+33-PR-California.txt;odo de 02Ago2010 a 27Set2010, 
+20-ES-Sao_Mateus.txt;odo de 30Mar2006 a 07Jun2006, 
+17-SE-Macambira.txt;odo de 29/08 a 02/09/2005, sendo
+16-PR-Ivatuba.txt;odo de 27/06/2005 a 01/07/2004, sendo
+22-SP-Iaras.txt;odo de 26Jul2006 a 25Out2006, 
+06-AP-Laranjal_do_Jari.txt;odo de 29/10/2003 a , 
+32-BA-Uibai.txt;odo de 01Jul2010 a 09Ago2010, 
+09-CE-Paramoti.txt;odo de 17 a 21/5/2004 sendo utilizados em sua execução as técnicas e procedimentos: inspeções físicas e documentais, 
+19-RJ-Volta_Redonda.txt;odo de 21de novembro a 01 de dezembro de 2005 sendo utilizados,
+25-AL-Pindoba.txt;odo de 22Out2007 a 31Dez2007, 
+22-TO-Sao_Miguel_do_Tocantins.txt;odo de 26Jul2006 a 11Set2006, 
+24-AL-Campo_Alegre.txt;odo de 01Ago2007 a 01Nov2007, 
+12-PB-Sao_Jose_de_Caiana.txt;odo 23 a 27/8/2004 sendo utilizados em sua execução , 
+32-AM-Tabatinga.txt;odo de 01Jul2010 a 12Jul2010, 
+03-PA-Baiao.txt;odo de 30/06/2003 a 04/07/2003, sendo
+RM38058-SP- Mirassolandia.txt;odo de 18/03/2013 a 22/03/2013. 
+15-MT-Araguaiana.txt;odo de 02.
+27-MA-Presidente_Sarney.txt;odo de 05Nov2008 a 09Jan2009, 
+18-PR-Godoy_Moreira.txt;odo de 17/10/2005 a 21/10/2005, sendo
+05-SP-Ferraz_de_Vasconcelos.txt;odo de 15/09/2003 a , 
+30-GO-Padre_Bernado.txt;odo de 13Out2009 a 23Dez2009, 
+33-BA-Ibicarai.txt;odo de 01Out2010 a 13Out2010, 
+24-GO-Montividiu.txt;odo de 01Ago2007 a 25Out2007, 
+27-MA-Sao_Joao_Batista.txt;odo de 05Nov2008 a 29Dez2008, 
+20-RO-Candeias_do_Jamari.txt;odo de 02Abr2001 a 08Jun2006, 
+32-MG-Itamogi.txt;odo de 01Jul2010 a 27Ago2010, 
+30-AM-Alvaraes.txt;odo de 14Out2009 a 06Nov2009, 
+RM38021-MG-Novorizonte.txt;odo de 18/03/2013 a 22/03/2013. 
+31-MG-Capim_branco.txt;odo de 01Abr2010 a 09Jun2010, 
+05-CE-Crateus.txt;odo de 15/09/2003 a , 
+RM37015-MA-Araguana.txt;odo de 22/10/2012 a 26/12/2012. 
+12-PA-Bannach.txt;odo de 23 à 27.
+26-PR-Nova_Santa_Barbara.txt;odo de 09Mai2008 a 30Jun2008, 
+25-MG-Pouso_Alegre.txt;odo de 17Out2007 a 31Dez2007, 
+21-PR-Novo_Itacolomi.txt;odo de 03Jun2006 a 15Ago2006, 
+06-SC-Lajeado_Grande.txt;odo de 27/10/2003 a 31/10/2003, sendo
+03-PI-Luiz_Correia.txt;odo de 30/06/2003 a 04/07/2003, sendo
+ESPECIAL_02_PAC-GO-Terezopolis_de_Goias.txt;odo de 01Abr2009 a 24Abr2009, 
+21-RS-Saldanha_Marinho.txt;odo de 12Jun2006 a 07Ago2006, 
+22-MG-Pedra_Bonita.txt;odo de 25Jul2006 a 12Set2006, 
+29-RJ-Miguel_Pereira.txt;odo de 01Out2009 a 16Out2009, 
+02-SC-Rio_dos_Cedros.txt;odo de 19/05/2003 à 23/05/2003, sendo
+17-MG-Felisburgo.txt;odo de 29 de agosto a 02 de setembro de 2005, sendo
+15-RJ-Aperibe.txt;odo de 02 a 13 de MAIO de 2005 sendo utilizados em sua execução , 
+29-RN-Jacana.txt;odo de 01Out2009 a 02Dez2009, 
+08-PB-Bernardino_Batista.txt;odo de 12 a 16 de abril de 2004 sendo utilizados em sua execução as seguintes técnicas e procedimentos: inspeções físicas e documentais; realização de entrevistas; aplicação de questionários e registros fotográficos. 
+28-PR-Porto_Vitoria.txt;odo de 01Mai2009 a 30Jun2009, 
+17-RJ-Comendador_Levy_Gasparian.txt;odo de 29/08 a 06/09/2005 sendo utilizados em sua execução as,
+29-MG-Urucania.txt;odo de 01Out2009 a 14Dez2009, 
+26-RN-Sao_Vicente.txt;odo de 08Mai2008 a 30Jun2008, 
+06-ES-Itaguacu.txt;odo de 26/10/2003 a , 
+19-CE-Tejucuoca.txt;odo de 21 a 25/11/2005 sendo utilizados em sua execução inspeções , 
+24-RS-Guaiba.txt;odo de 01Ago2007 a 18Set2007, 
+18-SP-Salmourao.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua execução , 
+10-PR-Farol.txt;odo de 14/06/2004 a 18/06/2004, sendo
+14-PA-Altamira.txt;odo de 29/11 a 03/12/2004, 
+31-MS-Bonito.txt;odo de 01Abr2010 a 23Abr2010, 
+32-BA-Heliopolis.txt;odo de 01Jul2010 a 04Ago2010, 
+ESPECIAL_02_PAC-RS-Portao.txt;odo de 10Mar2009 a 17Mar2009, 
+13-BA-Sao_Francisco_do_Conde.txt;odo de 08 a 12/11/2004 e de 22 a 26/11/2004 sendo utilizados em sua execução as técnicas: , 
+13-MA-Bacabal.txt;odo de 08 a 12 de novembro de 2004. 
+16-PA-Dom_Eliseu.txt;odo de 27/06 a 01/07/2005 por meio de inspeções físicas e , 
+27-PR-Leopolis.txt;odo de 07Nov2008 a 31Dez2008, 
+11-ES-Marataizes.txt;odo de 12 a 16/07/2004, sendo
+29-CE-Senador_Pompeu.txt;odo de 24Ago2009 a 30Set2009, 
+04-SP-Iepe.txt;odo de 11/08/2003 a 15/08/2003, sendo
+17-SC-Sao_Pedro_de_Alcantara.txt;odo de 29/08 a 02/09/2005, sendo
+08-SP-Bastos.txt;odo de 12 a 16 de abril de 2004 sendo utilizados em sua execução técnicas e procedimentos tais como, 
+22-RO-Buritis.txt;odo de 26Jun2006 a 18Set2006, 
+ESPECIAL_01_PAC-BA-Jeremoabo.txt;odo de 20Ago2008 a 18Set2008, 
+11-RS-Nonoai.txt;odo de 26 a 30/07/2004, sendo
+15-BA-Uaua.txt;odo de 02/05/2005 a 06/05/2005, sendo
+21-PE-Gameleira.txt;odo de 12Jun2006 a 07Jul2006, 
+03-RO-Sao_Miguel_do_Guapore.txt;odo de 30/06/2003 a 04/07/2003, sendo
+21-SC-Curitibanos.txt;odo de 12Jun2006 a 09Ago2006, 
+26-MG-Ipiacu.txt;odo de 09Mai2008 a 30Set2008, 
+07-AC-Epitaciolandia.txt;odo de 24/11/2003 a , 
+RM36017-PE-Itacuruba.txt;odo de 06/08/2012 a 10/08/2012. 
+12-GO-Nazario.txt;odo de 23/08 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+32-RS-Erval_Seco.txt;odo de 17Mai2010 a 16Jul2010, 
+ESPECIAL_01_PAC-PB-Alagoinha.txt;odo de 20Ago2008 a 23Set2008, 
+30-PB-Serra_Grande.txt;odo de 13Out2009 a 26Nov2009, 
+ESPECIAL_02_PAC-SP-Nova_Canaa_Paulista.txt;odo de 10Mar2009 a 25Mar2009, 
+32-SP-Sao_Joao_de_Iracema.txt;odo de 01Jul2010 a 16Jul2010, 
+04-MG-Januaria.txt;odo de 11 a 16/08/2003, 
+19-MG-Iapu.txt;odo 21 a 25 de novembro de 2005 sendo utilizados em sua execução as,
+12-BA-Amelia_Rodrigues.txt;odo de 23 a 27/08/2004, sendo
+27-SP-Rio_Grande_da_Serra.txt;odo de 06Nov2008 a 02Jan2009, 
+09-MG-Paraopeba.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução as técnicas e procedimentos como inspeções físicas e documentais, 
+ESPECIAL_01_PAC-RO-Cacoal.txt;odo de 13Out2008 a 13Out2008, 
+29-PB-Itaporanga.txt;odo de 01Out2009 a 09Out2009, 
+19-MG-Novo_Oriente_de_Minas.txt;odo de 21 a 25/11/2005 sendo utilizados em sua execução as,
+29-SP-Mogi_das_Cruzes.txt;odo de 02Jan2010 a 01Fev2010, 
+10-BA-Brejoes.txt;odo de 14 a 18/06/2004, sendo
+06-SP-Caieiras.txt;odo de 29/10/03 a 05/11/03, sendo
+07-SC-Rio_Negrinho.txt;odo de 24/11/2003 a 28/11/2003, sendo
+20-AM-Autazes.txt;odo de 29Mar2006 a 04Jul2006, 
+20-MA-Vargem_Grande.txt;odo de 03Abr2006 a 29Mai2006, 
+25-CE-Amontada.txt;odo de 16Jan2008 a 08Fev2008, 
+16-RN-Severiano_Melo.txt;odo 27/06 a 01/07 de 2005, sendo
+12-SP-Apiai.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução técnicas e , 
+27-PE-Agua_Preta.txt;odo de 03Nov2008 a 23Dez2008, 
+30-SC-Cordilheira_Alta.txt;odo de 13Out2009 a 12Nov2009, 
+27-RJ-Barra_Mansa.txt;odo de 28Out2008 a 26Dez2008, 
+27-SE-Divina_Pastora.txt;odo de 05Nov2008 a 19Dez2008, 
+13-SP-Botucatu.txt;odo de 08 a 12 de novembro de 2004, sendo
+33-RS-Victor_Graeff.txt;odo de 02Ago2010 a 30Set2010, 
+11-PE-Machados.txt;odo 12 a16/07/04 sendo utilizados em sua execução as técnicas e procedimentos , 
+33-RN-Caicara_do_Rio_do_Vento.txt;odo de 02Ago2010 a 28Set2010, 
+24-SE-Riachao_do_Dantas.txt;odo de 01Ago2007 a 14Set2007, 
+17-PE-Ouricuri.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as,
+23-BA-Itubera.txt;odo de 16Mai2007 a 19Jul2007, 
+26-GO-Itaguaru.txt;odo de 01Jul2008 a 20Ago2008, 
+06-PB-Borborema.txt;odo de 30/10/2003 a , 
+04-SP-Tabapua.txt;odo de 11/08/2003 a 15/08/2003, sendo
+15-BA-Guanambi.txt;odo de 02/05/2005 a 06/05/2005, sendo
+18-RN-Galinhos.txt;odo 17/10 a 21/10/2005 sendo utilizados em sua execução as,
+RM38016-GO- Sao Joao da Alianca.txt;odo de 18/03/2013 a 22/03/2013. 
+23-SC-Meleiro.txt;odo de 14Mai2007 a 29Jun2007, 
+17-BA-Coribe.txt;odo de 29/08/2005 a 02/09/2005, sendo
+19-MT-Araputanga.txt;odo de 28/11 a 2/12/05 sendo utilizados em sua execução as técnicas , 
+31-PI-Paes_Landim.txt;odo de 09Mar2010 a 06Mai2010, 
+18-RN-Frutuoso_Gomes.txt;odo 17/10 a 21/10/2005 sendo utilizados em sua execução as,
+31-RS-Pedro_Osorio.txt;odo de 08Mar2010 a 14Mai2010, 
+20-CE-Chaval.txt;odo de 30Mar2006 a 31Mar2006, 
+23-SC-Antonio_Carlos.txt;odo de 16Mai2007 a 13Jun2007, 
+07-CE-Pacoti.txt;odo de 24/11 a , 
+10-SP-Sao_Caetano_do_Sul.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução técnicas e , 
+ESPECIAL_02_PAC-MG-Aricanduva.txt;odo de 01Abr2009 a 09Abr2009, 
+11-PR-Laranjeiras_do_Sul.txt;odo de 12/07/2004 a 16/07/2004, sendo
+10-PA-Capitao_Poco.txt;odo de 14 à 23 de junho de 2004, 
+34-SC-Bandeirante.txt;odo de 29/08/2011 a 02/09/2011. 
+26-SP-Adolfo.txt;odo de 09Mai2008 a 30Jun2008, 
+23-RJ-Itatiaia.txt;odo de 16Mai2007 a 19Jul2007, 
+34-PA-Primavera.txt;odo de 29/08/2011 a 02/09/2011. 
+11-PR-Santo_Antonio_da_Platina.txt;odo de 26/07/2004 a 30/07/2004, sendo
+18-SP-Galia.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua , 
+14-BA-Guaratinga.txt;odo de 29/11 a 03/12/2004, sendo
+25-AL-Coquerio_Seco.txt;odo de 17Out2007 a 31Dez2007, 
+09-MG-Piranga.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+10-MG-Aguas_Vermelhas.txt;odo de 14 a 18/06/04 sendo utilizados em sua execução as técnicas e procedimentos, 
+31-BA-Sao_gabriel.txt;odo de 01Abr2010 a 25Mai2010, 
+24-MG-Guarani.txt;odo de 30Jul2007 a 25Out2007, 
+RM37011-ES-Iuna.txt;odo de 22/10/2012 a 01/11/2012. 
+RM38044-RN- Parana.txt;odo de 18/03/2013 a 22/03/2013. 
+05-CE-Sao_Bendito.txt;odo de 15/09/2003 a 19/09/2003, sendo
+16-SE-Nossa_Senhora_das_Dores.txt;odo de 27/06 a 01/07/2005, sendo
+31-PA-Inhangapi.txt;odo de 01Abr2010 a 09Jul2010, 
+33-PR-Florida.txt;odo de 02Ago2010 a 28Set2010, 
+20-PB-Pedra_Branca.txt;odo de 30Mar2006 a 25Set2006, 
+12-TO-Pau_D_Arco.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+RM37005-BA-Rodelas.txt;odo de 22/10/2012 a 26/10/2012. 
+28-MG-Capitao_Eneas.txt;odo de 01Jul2009 a 27Jul2009, 
+32-TO-Sao_Bento_do_Tocantins.txt;odo de 17Mai2010 a 23Jun2010, 
+34-RS-Arroio_dos_Ratos.txt;odo de 29/08/2011 a 02/09/2011. 
+30-MG-Capitao_Andrade.txt;odo de 13Out2009 a 15Jan2010, 
+05-MS-Paranaiba.txt;odo de 15/09/2003 a , 
+25-ES-Colatina.txt;odo de 17Out2007 a 31Dez2007, 
+26-MS-Eldorado.txt;odo de 01Jul2008 a 04Jul2008, 
+08-RS-Barros_Cassal.txt;odo de 26/04/2004 a 30/04/2004, sendo
+15-MT-Paranatinga.txt;odo de 2.
+ESPECIAL_02_PAC-RN-Sao_Paulo_do_Potengi.txt;odo de 01Abr2009 a 15Abr2009, 
+21-MA-Agua_Doce_do_Maranhao.txt;odo de 14Jun2006 a 10Jul2006, 
+16-SC-Tangara.txt;odo de 20 a 24/06/2005, sendo
+18-PI-Betania_do_Piaui.txt;odo de 17 a 21/10/2005 sendo utilizados em sua execução as , 
+12-AM-Parintins.txt;odo de 23 a 27.
+31-RS-Doutor_Ricardo.txt;odo de 08Mar2010 a 14Mai2010, 
+ESPECIAL_02_PAC-RN-Jucurutu.txt;odo de 01Abr2009 a 24Abr2009, 
+ESPECIAL_02_PAC-PB-Monte_Horebe.txt;odo de 05Mar2009 a 26Mar2009, 
+35-GO-Piracanjuba.txt;odo de 17/10/2011 a 27/10/2011. 
+19-GO-Cocalzinho_de_Goias.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+32-TO-Xambioa.txt;odo de 17Mai2010 a 19Jul2010, 
+15-GO-Aparecida_do_Rio_Doce.txt;odo de 02.
+04-GO-Novo_Gama.txt;odo de 11/08/2003 a 15/08/2003, sendo
+26-PE-Sanharo.txt;odo de 05Mai2008 a 24Jul2008, 
+31-RN-Lucrecia.txt;odo de 01Abr2010 a 14Mai2010, 
+14-CE-Pentecoste.txt;odo de 29/11 a 3/12/2004, sendo
+03-MT-Vila_Rica.txt;odo de 30/06/2003 a 04/07/2003, sendo
+32-RN-Pedro_Velho.txt;odo de 01Jul2010 a 15Jul2010, 
+05-RJ-Nilopolis.txt;odo de 15/09/2003 a , 
+RM37002-BA-Amargosa.txt;odo de 22/10/2012 a 26/10/2012. 
+RM38013-ES- Presidente Kennedy.txt;odo de 11/03/2013 a 28/03/2013. 
+22-ES-Conceicao_da_Barra.txt;odo de 24Jul2006 a 05Out2006, 
+31-PI-Flores_do_Piaui.txt;odo de 09Mar2010 a 11Mai2010, 
+12-MG-Tiros.txt;odo de 23 a 27 de agosto de 2004, sendo
+34-MG-Borda_da_Mata.txt;odo de 29/08/2011 a 02/09/2011. 
+31-SP-Dracena.txt;odo de 01Abr2010 a 21Mai2010, 
+08-AL-Vicosa.txt;odo de 12/04 a 16/04/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+10-PA-Magalhaes_Barata.txt;odo de 14 à 18.
+19-MS-Japora.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+ESPECIAL_02_PAC-PA-Sao_Miguel_do_Guama.txt;odo de 10Mar2009 a 30Mar2009, 
+34-PE-Quipapa.txt;odo de 29/08/2011 a 02/09/2011. 
+19-RJ-Pirai.txt;odo de 21/11/2005 a 02/12/2005 sendo utilizados em sua execução,
+33-BA-Anage.txt;odo de 01Out2010 a 18Out2010, 
+22-MG-Ninheira.txt;odo de 26Jun2006 a 13Set2006, 
+05-MG-Arantina.txt;odo de 15/09/2003 a , 
+15-SP-Mendonca.txt;odo de 02 de maio a 06 de maio de 2005 sendo utilizados em sua , 
+08-PE-Tamandare.txt;odo de 26 a 30/04/2004 sendo utilizados em sua execução as técnicas e , 
+25-MG-Heliodora.txt;odo de 16Out2007 a 31Dez2007, 
+14-SC-Nova_Itaberaba.txt;odos de 29/11 a 03/12/2004, sendo
+22-RJ-Paraiba_do_Sul.txt;odo de 26Jul2006 a 01Set2006, 
+04-RS-Coxilha.txt;odo de 11/08/2003 a 15/08/2003, sendo
+26-BA-Ibirataia.txt;odo de 12Mai2008 a 31Jul2008, 
+03-RJ-Sao_Joao_da_Barra.txt;odo de 30/06/2003 a 04/07/2003, sendo
+34-PB-Manaira.txt;odo de 29/08/2011 a 02/09/2011. 
+RM38022-MG-Perdigao.txt;odo de 18/03/2013 a 22/03/2013. 
+20-TO-Alianca_do_Tocantins.txt;odo de 30Mar2006 a 01Mai2006, 
+03-PR-Ipora.txt;odo de 30/06/2003 a 05/07/2003, sendo
+05-BA-Pocoes.txt;odo de 15/09/2003 a , 
+27-PI-Caldeirao_Grande_do_Piaui.txt;odo de 05Nov2008 a 18Dez2008, 
+02-RN-Barauna.txt;odo de 19/05/2003 à 24/05/2003, 
+29-CE-Saboeiro.txt;odo de 24Ago2009 a 28Set2009, 
+17-PR-Nova_Aurora.txt;odo de 29/08/2005 a 02/09/2005, sendo
+17-MA-Jatoba.txt;odo de 29 de agosto a 09 de setembro de 2005, sendo
+12-AL-Sao_Bras.txt;odo de 23/08 a 27/08 e 30/08 a 01/09/2004 sendo utilizados em sua , 
+24-BA-Capim_Grosso.txt;odo de 31Jan2007 a 05Nov2007, 
+33-AC-Brasileia.txt;odo de 02Ago2010 a 17Set2010, 
+24-MG-Oliveira.txt;odo de 01Ago2007 a 26Nov2007, 
+21-RJ-Italva.txt;odo de 12Jun2006 a 01Ago2006, 
+24-PR-Colombo.txt;odo de 30Jul2007 a 27Set2007, 
+34-MA-Sao_Raimundo_do_Doca_Bezerra.txt;odo de 29/08/2011 a 02/09/2011. 
+06-BA-Pirai_do_Norte.txt;odo de 27/10/2003 a , 
+15-MG-Desterro_do_Melo.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+08-RN-Sao_Jose_de_Mipibu.txt;odo de 26/04 a 07/05/2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais, 
+15-SP-Olimpia.txt;odo de 02 a 06/05/2005 sendo utilizados em sua , 
+28-AP-Ferreira_Gomes.txt;odo de 20Mai2009 a 01Jul2009, 
+27-AC-Placido_de_Castro.txt;odo de 10Nov2008 a 26Dez2008, 
+08-MG-Lontra.txt;odo de 12 a 16 de abril de 2004, sendo
+10-RS-Muitos_Capoes.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as as , 
+30-RN-Severiano_Melo.txt;odo de 14Out2009 a 30Nov2009, 
+18-SC-Apiuna.txt;odo de 17 a 21/10/2005 sendo utilizados em sua execução as,
+22-MG-Laranjal.txt;odo de 26Jul2006 a 15Set2006, 
+03-PB-Caapora.txt;odo de 30/06/2003 a 04/07/2003, sendo
+17-PR-Mandaguari.txt;odo de 29/08/2005 a 02/09/2005, sendo
+27-PE-Sao_Jose_do_Egito.txt;odo de 06Nov2008 a 31Dez2008, 
+13-MG-Campina_Verde.txt;odo de 08 a 12 de novembro de 2004, sendo
+RM38035-PE- Palmares.txt;odo de 18/03/2013 a 22/03/2013. 
+08-PE-Sirinhaem.txt;odo de 26/04/04 a 30/04/04, sendo
+ESPECIAL_01_PAC-PE-Tacaimbo.txt;odo de 01Out2008 a 13Out2008, 
+34-RN-Joao_Camara.txt;odo de 29/08/2011 a 02/09/2011. 
+13-PR-Jaguapita.txt;odo de 08/11/2004 a 12/11/2004, sendo
+31-PA-Sao_sebastiao_boa_vista.txt;odo de 10Mar2010 a 09Jul2010, 
+05-ES-Jeronimo_Monteiro.txt;odo de 15/09/2003 a 19/09/2003, sendo
+08-RJ-Vassouras.txt;odo de 26 a 30 de abril de 2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+31-PB-Natuba.txt;odo de 01Abr2010 a 23Abr2010, 
+26-MG-Conselheiro_Pena.txt;odo de 08Mai2008 a 24Out2008, 
+32-MG-Planura.txt;odo de 01Jul2010 a 20Ago2010, 
+RM36009-MA-Balsas.txt;odo de 06/08/2012 a 24/08/2012. 
+30-PE-Belem_de_Maria.txt;odo de 09Out2009 a 31Dez2009, 
+19-ES-Alegre.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+11-SP-Espirito_Santo_do_Pinhal.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução técnicas e , 
+10-CE-Novo_Oriente.txt;odo de 14 a 18/6/2004,sendo
+13-PB-Alagoa_Nova.txt;odo 8/11 a 12/11/2004 sendo utilizados em sua , 
+RM38018-MA-Mata Roma.txt;odo de 18/03/2013 a 22/03/2013. 
+27-PB-Santa_Teresinha.txt;odo de 05Nov2008 a 31Dez2008, 
+31-MG-Matias_Barbosa.txt;odo de 01Abr2010 a 17Jun2010, 
+35-MA-Fortuna.txt;odo de 17/10/2011 a 30/11/2011. 
+13-RJ-Rio_das_Ostras.txt;odo de 08/11/2004 a 12/11/2004 sendo utilizados em sua execução as seguintes , 
+30-MG-Chapada_do_Norte.txt;odo de 13Out2009 a 12Jan2010, 
+20-RS-Paraiso_do_Sul.txt;odo de 30Mar2006 a 13Jun2006, 
+04-RO-Rolim_de_Moura.txt;odo de 11/08/2003 a 15/08/2003, sendo
+31-SC-Cacador.txt;odo de 01Abr2010 a 24Mai2010, 
+RM36011-PA-Faro.txt;odo de 06/08/2012 a 10/08/2012. 
+25-MT-Matupa.txt;odo de 17Out2007 a 30Nov2007, 
+11-MG-Recreio.txt;odo de 26 a 30.
+34-MT-Reserva_do_Cabacal.txt;odo de 29/08/2011 a 02/09/2011. 
+28-PE-Carnaubeira_da_Penha.txt;odo de 18Mai2009 a 10Jul2009, 
+33-PB-Sao_Sebastiao_de_Lagoa_de_Roca.txt;odo de 02Ago2010 a 17Set2010, 
+ESPECIAL_01_PAC-RN-Montanhas.txt;odo de 21Ago2008 a 18Set2008, 
+03-RS-Tapes.txt;odo de 30/06/2003 a 04/07/2003, sendo
+15-PA-Juruti.txt;odo 02 a 06 de maio de 2005, sendo
+26-PI-Altos.txt;odo de 01Jul2008 a 17Jul2008, 
+16-SP-Nuporanga.txt;odo de 27 de junho a 1.
+19-MG-Rio_Preto.txt;odo de 21/11/2005 a 25/11/2005, sendo
+20-MA-Coroata.txt;odo de 29Mar2006 a 09Mai2006, 
+16-RS-Tres_Cachoeiras.txt;odo de 27/06 a 01/07/2005, sendo
+RM38057-SP-Itapecerica da Serra.txt;odo de 18/03/2013 a 22/03/2013. 
+26-BA-Campo_Formoso.txt;odo de 07Mai2008 a 23Set2008, 
+26-SC-Corupa.txt;odo de 07Mai2008 a 27Jun2008, 
+26-PB-Pitimbu.txt;odo de 07Mai2008 a 25Jul2008, 
+29-MS-Nova_Andradina.txt;odo de 01Out2009 a 09Out2009, 
+27-PA-Peixe_Boi.txt;odo de 03Nov2008 a 18Dez2008, 
+08-TO-Dianopolis.txt;odo de 12 a 20/04/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+18-AM-Amatura.txt;odo de 17 a 21 de outubro sendo utilizados em sua execução as , 
+34-PE-Santa_Cruz_do-Capibaribe.txt;odo de 29/08/2011 a 09/09/2011. 
+13-PE-Buenos_Aires.txt;odo de 08 a 12/11/2004, sendo
+22-PA-Marituba.txt;odo de 03Ago2001 a 06Out2006, 
+29-GO-Ouvidor.txt;odo de 01Out2009 a 15Out2009, 
+23-PE-Mirandiba.txt;odo de 14Mai2007 a 11Jul2007, 
+RM37043-RN-Sao Jose do Campestre.txt;odo de 21/10/2012 a 26/10/2012. 
+27-CE-Quixeramobim.txt;odo de 05Nov2008 a 19Dez2008, 
+05-MG-Sao_Pedro_da_Uniao.txt;odo de 15/09/2003 a 19/09/2003, sendo
+10-RS-Gramado_dos_Loureiros.txt;odo de 14 a 18/06/2004, sendo
+22-RN-Sitio_Novo.txt;odo de 01Jan2006 a 29Set2006, 
+22-BA-Sitio_do_Mato.txt;odo de 26Jun2006 a 29Set2006, 
+12-MG-Buenopolis.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução inspeções físicas , 
+27-RS-Santa_Cecilia_do_Sul.txt;odo de 05Nov2008 a 31Dez2008, 
+31-SC-Piratuba.txt;odo de 09Mar2010 a 13Mai2010, 
+14-CE-Independencia.txt;odo de 29/11 a 03/12/2004, sendo
+ESPECIAL_01_PAC-RJ-Paracambi.txt;odo de 25Ago2008 a 02Out2008, 
+05-GO-Uirapuru.txt;odo de 15/09/2003 a , 
+13-MG-Muzambinho.txt;odo de 08 a 12 de novembro de 2004, sendo
+35-MT-Santa_Rita_do_Trivelato.txt;odo de 17/10/2011 a 21/10/2011. 
+12-RS-Santa_Barbara_do_Sul.txt;odo de 23 a 26/08/2004, sendo
+33-RS-Salto_do_Jacui.txt;odo de 02Ago2010 a 30Set2010, 
+26-SC-Concordia.txt;odo de 05Mai2008 a 30Jun2008, 
+34-MG-Caputira.txt;odo de 29/08/2011 a 02/09/2011. 
+19-SC-Gravatal.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+33-AL-Colonia_Leopoldina.txt;odo de 02Ago2010 a 12Nov2010, 
+06-RS-Santa_Rosa.txt;odo de 27 a 31 de outubro de 2003, sendo
+12-MS-Rio_Brilhante.txt;odo de 23/08 a 01/09 sendo utilizados em sua execução as técnicas , 
+09-PI-Matias_Olimpio.txt;odo de 17 a 21/05/2004, sendo
+32-PI-Alegrete_do_Piaui.txt;odo de 18Mai2010 a 03Ago2010, 
+26-PB-Sao_Sebastiao_do_Umbuzeiro.txt;odo de 01Jul2008 a 18Jul2008, 
+30-AL-Campestre.txt;odo de 14Out2009 a 24Mar2010, 
+25-SP-Aramina.txt;odo de 17Out2007 a 27Dez2007, 
+31-AL-Girau_do_Ponciano.txt;odo de 09Mar2010 a 26Jul2010, 
+23-MA-Dom_Pedro.txt;odo de 14Mai2007 a 17Jul2007, 
+11-MG-Cristina.txt;odo de 19 a 23 de julho de 2004 sendo utilizados em sua execução as técnicas e , 
+ESPECIAL_01_PAC-SE-Neopolis.txt;odo de 26Ago2008 a 30Set2008, 
+12-RJ-Engenheiro_Paulo_de_Frontin.txt;odo de 23/08/2004 a 27/08/2004 sendo utilizados em sua execução , 
+25-PE-Capoeiras.txt;odo de 15Out2007 a 13Nov2007, 
+02-TO-Carrasco_Bonito.txt;odo de 19/05/2003 a 24/05/2003, sendo
+11-SP-Adamantina.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução técnicas e , 
+11-MT-Colniza.txt;odo 19 a 23/07/04 sendo utilizados em sua execução as seguintes técnicas e , 
+35-RS-Glorinha.txt;odo de 17/10/2011 a 21/10/2011. 
+14-PE-Belem_de_Maria.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de coleta de , 
+RM38030-PA- Trairao.txt;odo de 18/03/2013 a 22/03/2013. 
+22-GO-Inaciolandia.txt;odo de 26Jul2006 a 15Set2006, 
+25-MG-Nova_Lima.txt;odo de 02Jan2008 a 30Jan2008, 
+11-PE-Inaja.txt;odo 26 a 30/07/04 sendo utilizados em sua execução as técnicas e procedimentos , 
+23-PA-Oriximina.txt;odo de 16Mai2007 a 19Jul2007, 
+14-MG-Araguari.txt;odo de 29/11 a 08/12/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+28-AL-Porto_Calvo.txt;odo de 20Mai2009 a 07Ago2009, 
+RM37053-SE-Sao domingos.txt;odo de 22/10/2012 a 26/10/2012. 
+18-MG-Delfinopolis.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua,
+28-MG-Goncalves.txt;odo de 01Jul2009 a 31Jul2009, 
+26-PE-Pesqueira.txt;odo de 12Mai2007 a 14Jul2008, 
+26-RS-Sao_Domingos_do_Sul.txt;odo de 07Mai2008 a 11Jul2008, 
+07-BA-Irece.txt;odo 24/11 a , 
+12-PR-Guaraniacu.txt;odo de 23/08/2004 a 27/08/2004, sendo
+18-MG-Nova_Modica.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados,
+RM37035-PI-Lagoa Alegre.txt;odo de 22/10/2012 a 26/10/2012. 
+13-MA-Arari.txt;odo de 08 a 12 de novembro de 2004. 
+20-RJ-Paracambi.txt;odo de 30Mar2005 a 26Mai2006, 
+10-PE-Terezinha.txt;odo 14 a 18/06/04 sendo utilizados em sua execução as técnicas e procedimentos , 
+19-PR-Palotina.txt;odo de 21/11/2005 a 25/11/2005, sendo
+08-MS-Bataypora.txt;odo de 12 a 16/04/2004 sendo utilizados em sua execução as técnicas e procedimentos: inspeções físicas e documentais, 
+35-BA-Nova_Ibia.txt;odo de 17/10/2011 a 21/10/2011. 
+12-GO-Mambai.txt;odo 23.
+14-SP-Ribeirao_Grande.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+27-SE-Graccho_Cardoso.txt;odo de 05Nov2008 a 19Dez2008, 
+32-RN-Pendencias.txt;odo de 01Jul2010 a 20Jul2010, 
+22-SE-Aracaju.txt;odo de 26Jul2006 a 10Nov2006, 
+33-MT-Marcelandia.txt;odo de 02Ago2010 a 15Set2010, 
+19-CE-Jaguaribara.txt;odo de 21 a 25/11/2005 sendo utilizados em sua execução inspeções , 
+28-AL-Limoeiro_de_Anadia.txt;odo de 20Mai2009 a 07Ago2009, 
+08-MG-Santo_Antonio_do_Monte.txt;odo de 12 a 16 de abril de 2004 sendo utilizados em sua execução as técnicas e procedimentos como inspeções físicas e documentais, 
+16-PI-Prata_do_Piaui.txt;odo de 27/06 a 01/07/2005 sendo utilizados em sua execução as , 
+33-RS-Lagoa_dos_Tres_Cantos.txt;odo de 02Ago2010 a 30Set2010, 
+10-RJ-Sao_Joao_de_Meriti.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução as técnicas e , 
+33-SC-Cunhatai.txt;odo de 02Ago2010 a 27Ago2010, 
+33-SP-Porangaba.txt;odo de 02Ago2010 a 30Set2010, 
+ESPECIAL_01_PAC-MA-Buriti.txt;odo de 26Ago2008 a 26Set2008, 
+23-SP-Paulinia.txt;odo de 16Mai2007 a 02Jul2007, 
+29-PE-Petrolina.txt;odo de 24Ago2009 a 31Dez2009, 
+07-RJ-Duas_Barras.txt;odo de 24 a 28 de , 
+10-SE-Estancia.txt;odo de 14 a 22/06/2004 sendo utilizados em sua execução as técnicas e , 
+08-AP-Santana.txt;odo de 12/04 a 20/04/2004 sendo utilizados em sua execução as técnicas e procedimentos tais como : inspeções físicas e documentais, 
+13-TO-Araguatins.txt;odo 08 a 18/11/2004 sendo utilizados em , 
+17-RN-Acari.txt;odo 29/08 a 06/09/2005 sendo utilizados em sua execução as,
+03-PA-Cachoeira_do_Piria.txt;odo de 30/06/2003 a 04/07/2003, 
+RM38043-RN- Martins.txt;odo de 18/03/2013 a 22/03/2013. 
+24-PB-Aparecida.txt;odo de 01Ago2006 a 14Set2007, 
+35-TO-Bandeirantes_do_Tocantins.txt;odo de 16/10/2011 a 22/10/2011. 
+31-RN-Luis_Gomes.txt;odo de 01Abr2010 a 10Mai2010, 
+ESPECIAL_01_PAC-SP-Vargem_Grande_do_Sul.txt;odo de 25Ago2008 a 30Set2008, 
+32-PE-Santa_Filomena.txt;odo de 01Jul2010 a 26Ago2010, 
+24-RJ-Barra_do_Pirai.txt;odo de 30Jul2007 a 30Set2007, 
+17-RS-Santo_Augusto.txt;odo de 29/08 a 02/09/2005, sendo
+35-SC-Jupia.txt;odo de 17/10/2011 a 21/10/2011. 
+04-PE-Jucati.txt;odo de 11 a 15/08/2003, sendo
+10-TO-Babaculandia.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as técnicas e , 
+20-RN-Sao_Rafael.txt;odo de 06Abr2006 a 30Jun2006, 
+28-PR-Rancho_Alegre.txt;odo de 20Mai2009 a 30Jun2009, 
+08-PR-Almirante_Tamandare.txt;odo de 12/04/2004 a 16/04/2004, sendo
+20-RS-Eugenio_de_Castro.txt;odo de 30Mar2006 a 12Jun2006, 
+33-MG-Barao_de_Monte_Alto.txt;odo de 03Ago2010 a 15Out2010, 
+05-RS-Paraiso_do_Sul.txt;odo de 15/09/2003 a , 
+RM38042-RJ- Iguaba Grande.txt;odo de 18/03/2013 a 22/03/2013. 
+RM38019-MG-Formiga.txt;odo de 18/03/2013 a 22/03/2013. 
+30-BA-Gentio_do_Ouro.txt;odo de 01Jan2010 a 02Fev2010, 
+19-RS-Monte_Belo_do_Sul.txt;odo de 21 a 25/11/2005, sendo
+35-RS-Santa_Clara_do_Sul.txt;odo de 17/10/2011 a 21/10/2011. 
+21-SP-Quadra.txt;odo de 13Jun2006 a 28Jul2006, 
+03-BA-Filadelfia.txt;odo de 30/06/2003 a 04/07/2003, sendo
+15-PI-Rio_Grande_do_Piaui.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+05-SE-Cedro_de_Sao_Joao.txt;odo de 15/09/2003 a 19/09/2003, sendo
+10-GO-Rianapolis.txt;odo de 14/06 a 17/06/2004 sendo utilizados em sua execução as técnicas e , 
+27-CE-Carius.txt;odo de 05Nov2008 a 02Jan2009, 
+13-RS-Julio_de_Castilhos.txt;odo de 08 a 12/11/2004, sendo
+14-AM-Nova_Olinda_do_Norte.txt;odo de 29/11/2004 a 03/12/2004 sendo utilizados em sua execução , 
+24-BA-Ibitiara.txt;odo de 30Jul2007 a 08Nov2007, 
+17-SP-Balsamo.txt;odo de 29 de agosto a 02 de setembro de 2005, sendo
+23-PB-Gurinhem.txt;odo de 16Mai2007 a 10Jul2007, 
+21-MT-Nova_Marilandia.txt;odo de 01Jul2006 a 26Jul2006, 
+17-AM-Tonantins.txt;odo de 29.
+24-RN-Riachuelo.txt;odo de 01Ago2007 a 01Nov2007, 
+16-MG-Sarzedo.txt;odo 27 de junho a 01 de julho de 2005 sendo utilizados em sua execução,
+RM37001-AL-Roteiro.txt;odo de 22/10/2012 a 26/10/2012. 
+12-GO-Santa_Helena_de_Goias.txt;odo de 23/08 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+07-GO-Nova_Crixas.txt;odo 24.
+20-MG-Virgem_da_Lapa.txt;odo de 22Mar2006 a 31Mai2006, 
+21-SP-Alvares_Machado.txt;odo de 13Jun2006 a 04Ago2006, 
+31-SE-Frei_Paulo.txt;odo de 01Abr2010 a 18Mai2010, 
+08-RN-Serra_Caiada_ex-Presidente_Juscelino.txt;odo de 26 a 30/04/2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais, 
+34-BA-Canapolis.txt;odo de 29/08/2011 a 02/09/2011. 
+25-BA-Camamu.txt;odo de 17Out2007 a 31Dez2007, 
+35-SC-Sangao.txt;odo de 17/10/2011 a 21/10/2011. 
+ESPECIAL_02_PAC-BA-Nilo_Pecanha.txt;odo de 01Abr2009 a 23Abr2009, 
+21-PR-Campo_Largo.txt;odo de 12Jun2006 a 01Set2006, 
+06-BA-Sao_Francisco_do_Conde.txt;odo de 28/10/2003 a 04/11/2003, sendo
+18-CE-Vicosa_do_Ceara.txt;odo de 17 a 21/10/2005 sendo utilizados em sua execução inspeções , 
+RM38029-PA- Cachoeira do Arari.txt;odo de 18/03/2013 a 22/03/2013. 
+20-TO-Formoso_do_Araguaia.txt;odo de 29Mar2006 a 09Mai2006, 
+32-SC-Bom_Jardim_da_Serra.txt;odo de 17Mai2010 a 09Jul2010, 
+20-BA-Quixabeira.txt;odo de 04Abr2005 a 19Jun2006, 
+07-PI-Fronteiras.txt;odo de 24 a , 
+10-GO-Gouvelandia.txt;odo de 14.
+08-BA-Itaberaba.txt;odo de 12 a 23/04/2004, sendo
+33-PI-Lagoa_de_Sao_Francisco.txt;odo de 02Ago2010 a 11Out2010, 
+04-BA-Satiro_Dias.txt;odo de 11/08/2003 a 16/08/2003, sendo
+10-MG-Lagoa_dos_Patos.txt;odo de 14 a 23 de junho de 2004 sendo utilizados em sua execução , 
+22-SC-Santa_Rosa_de_Lima.txt;odo de 26Jul2006 a 08Set2006, 
+20-MS-Bonito.txt;odo de 29Mar2006 a 12Mai2006, 
+25-AC-Xapuri.txt;odo de 22Out2007 a 28Dez2007, 
+29-RO-Ouro_Preto_do_Oeste.txt;odo de 25Ago2009 a 16Out2009, 
+33-MA-Nova_Colinas.txt;odo de 03Ago2010 a 30Set2010, 
+12-MG-Campos_Gerais.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução as técnicas , 
+23-BA-Itapicuru.txt;odo de 09Mai2007 a 12Set2007, 
+10-SP-Santa_Barbara_d_Oeste.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução técnicas e , 
+05-SP-Igarata.txt;odo de 15/09/2003 a , 
+26-CE-Itarema.txt;odo de 02Mai2008 a 19Jun2008, 
+19-MG-Prados.txt;odo de 21/11/2005 a 25/11/2005, sendo
+24-PI-Sao_Lourenco_do_Piaui.txt;odo de 06Ago2007 a 28Set2007, 
+14-RR-Caroebe.txt;odo 29/11/2004 a 3/12/2004 sendo utilizados em , 
+05-RO-Cerejeiras.txt;odo de 15/09/2003 a , 
+08-PR-Amapora.txt;odo de 12/04/2004 a 16/04/2004, sendo
+18-PB-Ibiara.txt;odo 17 a 21/10/2005 sendo utilizadas em sua execução as técnicas,
+14-PB-Curral_de_Cima.txt;odo 29/11 a 03/12//2004 sendo utilizados em sua execução as técnicas de inspeções , 
+25-PB-Brejo_do_Cruz.txt;odo de 19Fev2008 a 19Fev2008, 
+30-SP-Batatais.txt;odo de 13Out2009 a 23Dez2009, 
+26-PI-Alegrete_do_Piaui.txt;odo de 12Mai2008 a 11Jul2008, 
+RM38026-MS-Douradina.txt;odo de 18/03/2013 a 21/03/2013. 
+ESPECIAL_02_PAC-SP-Pongai.txt;odo de 16Mar2009 a 25Mar2009, 
+28-MS-Coronel_Sapucaia.txt;odo de 01Jul2009 a 03Jul2009, 
+22-PB-Jerico.txt;odo de 26Jul2006 a 25Set2006, 
+04-AP-Calcoene.txt;odo de 11/08/2003 a 15/08/2003, sendo
+28-TO-Tupiratins.txt;odo de 19Mai2009 a 05Jun2009, 
+24-PR-Bandeirantes.txt;odo de 01Ago2007 a 28Set2007, 
+22-GO-Panama.txt;odo de 24Jun2006 a 19Set2006, 
+26-SP-Nipoa.txt;odo de 01Jul2008 a 28Jul2008, 
+19-MG-Urucania.txt;odo 21 a 25 de novembro de 2005 sendo utilizados em sua execução,
+04-MS-Dourados.txt;odo de 11/08/2003 a 15/08/2003, sendo
+23-MS-Amambai.txt;odo de 16Mai2007 a 29Jun2007, 
+03-ES-Muniz_Freire.txt;odo de 30/06/2003 a 04/07/2003, sendo
+12-BA-Santa_Teresinha.txt;odo 23 a 27.
+28-SP-Caconde.txt;odo de 20Mai2009 a 24Jul2009, 
+12-SP-Sagres.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução técnicas e , 
+ESPECIAL_01_PAC-SC-Coronel_Freitas.txt;odo de 01Set2008 a 05Set2008, 
+12-SC-Praia_Grande.txt;odo de 23/08/2004 a 27/08/2004 e 13/09/2004 a 17/09/2004, sendo
+30-CE-Penaforte.txt;odo de 13Out2009 a 20Nov2009, 
+16-BA-Catolandia.txt;odo de 27/06/2005 a 01/07/2005, sendo
+12-TO-Fatima.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+21-MG-Serrania.txt;odo de 19Mai2006 a 25Jul2006, 
+05-SP-Avare.txt;odo de 15/09/2003 a , 
+35-PR-Itaguaje.txt;odo de 17/10/2011 a 21/10/2011. 
+12-RS-Porto_Vera_Cruz.txt;odo de 23 a 26/08/2004, sendo
+32-MG-Abadia_dos_Dourados.txt;odo de 01Jul2010 a 26Ago2010, 
+28-SC-Ituporanga.txt;odo de 18Mai2009 a 13Jul2009, 
+11-MG-Itau_de_Minas.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução as técnicas e , 
+15-PR-Marumbi.txt;odo de 02/05/2005 a 06/05/2005, sendo
+13-MG-Sao_Lourenco.txt;odo de 8 a 12 de novembro de 2004, sendo
+25-MG-Chapada_Gaucha.txt;odo de 15Out2007 a 14Jan2008, 
+34-PE-Caruaru.txt;odo de 29/08/2011 a 08/09/2011. 
+35-PB-Umbuzeiro.txt;odo de 17/10/2011 a 21/10/2011. 
+04-PR-Bocaiuva_do_Sul.txt;odo de 11/08/2003 a 15/08/2003, sendo
+12-MA-Graca_Aranha.txt;odo de 23 a 27 de agosto de 2004. 
+30-RS-Gaurama.txt;odo de 13Out2009 a 18Dez2009, 
+34-SE-Japaratuba.txt;odo de 29/08/2011 a 02/10/2011. 
+27-RS-Charqueadas.txt;odo de 05Nov2008 a 20Jan2009, 
+27-RS-Nova_Palma.txt;odo de 05Nov2008 a 12Jan2009, 
+21-RO-Novo_Horizonte_dOeste.txt;odo de 12Jun2006 a 26Jul2006, 
+03-PA-Marituba.txt;odo de 30/06/2003 a 04/07/2003, 
+14-MA-Joselandia.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de , 
+30-RN-Mossoro.txt;odo de 14Out2009 a 26Fev2010, 
+16-SC-Itaiopolis.txt;odo de 20 a 24/06/2005, sendo
+16-GO-Alvorada_do_Norte.txt;odo de 20.
+15-RS-Santiago.txt;odo de 02 a 06/05/2005, sendo
+35-SP-Palmares_Paulista.txt;odo de 17/10/2011 a 21/10/2011. 
+18-GO-Marzagao.txt;odo de 14/10 a 3/11/05, sendo
+03-SP-Cravinhos.txt;odo de 30/06/2003 a 04/07/2003, sendo
+24-PA-Sao_Francisco_do_Para.txt;odo de 01Ago2007 a 01Out2007, 
+11-BA-Ribeirao_do_Largo.txt;odo de 19 a 23/07/2004, sendo
+29-PI-Dom_Inocencio.txt;odo de 24Ago2009 a 03Nov2009, 
+25-RN-Sao_Fernando.txt;odo de 17Out2007 a 15Fev2008, 
+04-MS-Rio_Negro.txt;odo de 11/08/2003 a 15/08/2003, sendo
+33-PR-Guaraniacu.txt;odo de 02Ago2010 a 30Set2010, 
+21-RS-Santo_Antonio_do_Palma.txt;odo de 12Jun2006 a 09Ago2006, 
+03-PE-Surubim.txt;odo de 30/06/2003 a 04/07/2003, sendo
+24-TO-Mateiros.txt;odo de 01Ago2007 a 12Set2007, 
+06-MS-Jatei.txt;odo de 27 a 31 de outubro/2003, sendo
+18-GO-Nova_Iguacu_de_Goias.txt;odo de 10/10 a 04/11/05, sendo
+28-RN-Itau.txt;odo de 20Mai2009 a 15Jul2009, 
+21-GO-Formosa.txt;odo de 12Jun2006 a 08Ago2006, 
+21-PR-Londrina.txt;odo de 12Jun2006 a 29Ago2006, 
+RM38002-AM- Jurua.txt;odo de 18/03/2013 a 22/03/2013. 
+ESPECIAL_01_PAC-PA-Santarem.txt;odo de 01Out2008 a 30Out2008, 
+34-RN-Fernando_Pedroza.txt;odo de 29/08/2011 a 02/09/2011. 
+RM37049-RS-Sao Jose do Sul.txt;odo de 22/10/2012 a 26/10/2012. 
+35-SP-Pontes_Gestal.txt;odo de 17/10/2011 a 21/10/2011. 
+16-RS-Bom_Progresso.txt;odo de 27/06 a 01/07/2005, sendo
+21-AP-Pedra_Branca_do_Amapari.txt;odo de 16Jun2006 a 28Jul2006, 
+26-MA-Duque_Bacelar.txt;odo de 05Mai2008 a 31Jul2008, 
+03-RS-Veranopolis.txt;odo de 30/06/2003 a 04/07/2003, 
+32-AP-Pedra_Branca_do_Amapari.txt;odo de 20Mai2010 a 21Jun2010, 
+RM37031-PB-Caldas Brandao.txt;odo de 22/10/2012 a 26/10/2012. 
+22-PI-Alto_Longa.txt;odo de 30Jul2006 a 05Out2006, 
+29-AM-Fonte_Boa.txt;odo de 03Ago2009 a 18Set2009, 
+05-RN-Baia_Formosa.txt;odo de 15/09/2003 a 26/09/2003, sendo
+26-SP-Rincao.txt;odo de 01Jul2008 a 22Jul2008, 
+31-RS-Pouso_Novo.txt;odo de 08Mar2010 a 13Mai2010, 
+19-AM-Itacoatiara.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+28-PB-Mamanguape.txt;odo de 01Jul2009 a 07Jul2009, 
+26-CE-Uruoca.txt;odo de 02Mai2008 a 19Jun2008, 
+27-SP-Pirapozinho.txt;odo de 06Nov2008 a 23Jan2009, 
+18-MA-Gov._Eugenio_Barros.txt;odo de 17 a 21 de outubro de 2005, sendo
+20-CE-Marco.txt;odo de 30Mar2006 a 02Mai2006, 
+18-PE-Passira.txt;odo 17 a 21/10/05 sendo utilizados em sua execução as técnicas de inspeções físicas e , 
+35-RN-Parazinho.txt;odo de 17/10/2011 a 21/10/2011. 
+27-GO-Palmeiras_do_Goias.txt;odo de 05Nov2008 a 31Dez2008, 
+06-CE-Cascavel.txt;odo de 29/10 a 6/11/2003, sendo
+07-AL-Lagoa_da_Canoa.txt;odo de 24/11 a 28/11/2003, sendo
+12-PR-Doutor_Ulysses.txt;odo de 23/08/2004 a 27/08/2004, sendo
+32-MG-Caxambu.txt;odo de 01Jul2010 a 26Ago2010, 
+27-PA-Ulianopolis.txt;odo de 06Nov2008 a 29Dez2008, 
+27-RN-Fernando_Pedroza.txt;odo de 05Nov2008 a 22Dez2008, 
+34-PI-Floriano.txt;odo de 29/08/2011 a 02/09/2011. 
+06-RN-Rafael_Godeiro.txt;odo de 29/10/2003 a 06/11/2003, sendo
+32-SP-Vargem.txt;odo de 01Jul2010 a 16Jul2010, 
+05-BA-Malhada_de_Pedras.txt;odo de 15/09/2003 a 19/09/2003, sendo
+RM37020-MG-Pratapolis.txt;odo de 21/10/2012 a 26/10/2012. 
+14-GO-Itaucu.txt;odo de 29.
+34-MG-Durande.txt;odo de 29/08/2011 a 02/09/2011. 
+02-MT-Pontal_do_Araguaia.txt;odo de 19/05/2003 à 24/05/2003, 
+07-MG-Capim_Branco.txt;odo de 24 a 28 de novembro de 2003 sendo utilizados em sua execução as técnicas e procedimentos por meio de , 
+25-MG-Alagoa.txt;odo de 29Out2007 a 31Mar2008, 
+10-MG-Coronel_Murta.txt;odo de 14 a 18.
+17-BA-Sebastiao_Laranjeiras.txt;odo de 29/08/2005 a 02/09/2005 sendo utilizados em sua execução as , 
+21-SC-Pinhao.txt;odo de 12Jun2006 a 18Ago2006, 
+24-CE-Acopiara.txt;odo de 30Jul2007 a 28Set2007, 
+29-PI-Belem_Piaui.txt;odo de 26Ago2009 a 15Out2009, 
+23-CE-Catarina.txt;odo de 02Jul2007 a 24Ago2007, 
+25-PB-Araruna.txt;odo de 15Out2007 a 21Dez2007, 
+32-PR-Santo_Inacio.txt;odo de 17Mai2010 a 22Jul2010, 
+RM36020-PR-Terra Rica.txt;odo de 06/08/2012 a 10/08/2012. 
+ESPECIAL_01_PAC-TO-Itaguatins.txt;odo de 25Ago2008 a 22Set2008, 
+21-MS-Novo_Horizonte_do_Sul.txt;odo de 03Jul2006 a 09Ago2006, 
+18-RS-Xangri-La.txt;odo de 17 a 21/10/2005, sendo
+34-BA-America_Dourada.txt;odo de 29/08/2011 a 31/10/2011. 
+13-GO-Mozarlandia.txt;odo de 08.
+13-RN-Caico.txt;odo de 08/12 a 12/11/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+33-RS-Ubiretama.txt;odo de 02Ago2010 a 30Set2010, 
+32-MT-Sao_Felix_do_Araguaia.txt;odo de 17Mai2010 a 06Jul2010, 
+16-RS-Vista_Alegre_do_Prata.txt;odo de 27/06 a 01/07/2005, sendo
+23-AL-Messias.txt;odo de 09Mai2007 a 27Jul2007, 
+22-PI-Sussuapara.txt;odo de 31Jul2006 a 28Set2006, 
+29-PA-Nova_Esperanca_do_Piria.txt;odo de 28Ago2009 a 05Nov2009, 
+RM37021-MG-Sao Sebastiao do Oeste.txt;odo de 22/10/2012 a 26/10/2012. 
+08-GO-Faina.txt;odo de 12 a 16.
+34-MS-Selviria.txt;odo de 28/08/2011 a 02/09/2011. 
+03-RN-Angicos.txt;odo de 30/06/2003 a 04/07/2003, 
+18-AC-Senador_Guiomard.txt;odo de 17 a 21 de Outubro de 2005 sendo utilizados em sua execução as técnicas de,
+19-SP-Alto_Alegre.txt;odo de 21 a 25 de novembro de 2005 sendo utilizados em sua,
+14-RS-Severiano_de_Almeida.txt;odo de 08 a 19 de novembro de 2004 sendo utilizados em sua execução as técnicas de , 
+34-BA-Aurelino_Leal.txt;odo de 29/08/2011 a 02/09/2011. 
+16-MA-Butiri_Bravo.txt;odo de 27 de junho a 08 de julho de 2005, sendo
+19-RN-Tenente_Laurentino_Cruz.txt;odo 21/11 a 25/11/2005 sendo utilizados em sua execução as,
+05-AM-Caapiranga.txt;odo de 15/09/2003 a , 
+20-PE-Brejinho.txt;odo de 27Mar2006 a 27Abr2006, 
+19-GO-Hidrolandia.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+34-ES-Sao_Mateus.txt;odo de 29/08/2011 a 02/09/2011. 
+RM38033-PB-Picui.txt;odo de 19/03/2013 a 23/03/2013. 
+21-BA-Gentio_do_Ouro.txt;odo de 05Jun2006 a 17Jul2006, 
+09-MT-Sao_Jose_do_Rio_Claro.txt;odo 17 a 21/05/04 sendo utilizados em sua execução as seguintes técnicas e procedimentos: inspeções físicas e documentais, 
+16-AM-Alvaraes.txt;odo de 27 de junho a 1º de julho de 2005 sendo utilizados em sua,
+26-MA-Sao_Jose_de_Ribamar.txt;odo de 12Mai2008 a 18Ago2008, 
+RM37008-CE-Itatira.txt;odo de 22/10/2012 a 26/10/2012. 
+06-RS-Pedro_Osorio.txt;odo de 27/10/2003 a , 
+27-ES-Ibitirama.txt;odo de 05Nov2008 a 31Dez2008, 
+ESPECIAL_02_PAC-SE-Gararu.txt;odo de 16Mar2009 a 07Abr2009, 
+RM38037-PI- Dirceu Arcoverde.txt;odo de 18/03/2013 a 22/03/2013. 
+32-MG-Felisburgo.txt;odo de 01Jul2010 a 27Ago2010, 
+06-AC-Bujari.txt;odo de 27/10/2003 a , 
+18-RS-Mormaco.txt;odo de 17 a 21/10/2005, sendo
+09-SC-Picarras.txt;odo de 17/05/2004 a 28/05/2004, sendo
+32-ES-Pedro_Canario.txt;odo de 01Jul2010 a 27Ago2010, 
+17-CE-Aracati.txt;odo de 29/8 a 02/9/2005 sendo utilizados em sua execução as , 
+08-AC-Acrelandia.txt;odo de 26 a 30 de abril de 2004 sendo utilizados em sua execução as seguintes técnicas e procedimentos: análise documental, 
+12-RJ-Nova_Friburgo.txt;odo de 23/08/2004 a 27/08/2004 sendo utilizados em sua execução as seguintes , 
+RM37058-SP-Populina.txt;odo de 22/10/2012 a 26/10/2012. 
+22-SP-Guatapara.txt;odo de 26Jul2006 a 10Nov2006, 
+34-MT-Santo_Antonio_do_Leste.txt;odo de 29/08/2011 a 02/09/2011. 
+ESPECIAL_02_PAC-PI-Cabeceiras_do_Piaui.txt;odo de 10Mar2009 a 23Mar2009, 
+30-PB-Cacimbas.txt;odo de 13Out2009 a 10Dez2009, 
+22-GO-Sitio_d_Abadia.txt;odo de 24Jul2006 a 17Nov2006, 
+ESPECIAL_01_PAC-BA-Araci.txt;odo de 25Ago2008 a 16Set2008, 
+29-PE-Orobo.txt;odo de 01Out2009 a 26Nov2009, 
+35-PA-Bujaru.txt;odo de 17/10/2011 a 21/10/2011. 
+20-SE-Sao_Miguel_do_Aleixo.txt;odo de 28Mar2006 a 31Mai2006, 
+28-BA-Itapicuru.txt;odo de 01Jul2009 a 30Jun2009, 
+RM38045-RN- Riacho de Santana.txt;odo de 18/03/2013 a 22/03/2013. 
+35-SP-Adamantina.txt;odo de 17/10/2011 a 21/10/2011. 
+14-BA-Ibicoara.txt;odo de 29/11 a 03/12/2004, sendo
+29-PR-Balsa_Nova.txt;odo de 25Ago2009 a 30Set2009, 
+17-RO-Cacaulandia.txt;odo 29 de agosto a 02 de setembro de 2005, sendo
+23-PA-Igarape-acu.txt;odo de 17Mai2007 a 01Ago2007, 
+11-PB-Conde.txt;odo de 19/7 a 28/7/2004 sendo utilizados em sua execução as técnicas e , 
+17-PA-Rondon_do_Para.txt;odo 29 de agosto a 2 de setembro de 2005, sendo
+04-SP-Paraguacu_Paulista.txt;odo de 11/08/2003 a 15/08/2003, sendo
+09-GO-Parauna.txt;odo de 17 a 21.
+31-BA-Palmas_de_Monte_Alto.txt;odo de 01Abr2010 a 24Mai2010, 
+15-TO-Piraque.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+11-RJ-Miracema.txt;odo de 12 a 16 de julho de 2004, sendo
+13-ES-Barra_de_Sao_Francisco.txt;odo de 08 a 17/11/2004 sendo utilizados em sua execução as seguintes técnicas e , 
+33-AL-Flexeiras.txt;odo de 02Ago2010 a 09Nov2010, 
+15-BA-Boquira.txt;odo de 02/05/2005 a 06/05/2005, sendo
+20-SC-Capivari_de_Baixo.txt;odo de 29Mar2006 a 25Abr2006, 
+21-MG-Pompeu.txt;odo de 12Jun2006 a 08Ago2006, 
+RM38007-BA- Itarantim.txt;odo de 18/03/2013 a 22/03/2013. 
+27-SC-Mafra.txt;odo de 05Nov2008 a 26Dez2008, 
+28-CE-Morrinhos.txt;odo de 10Jul2009 a 10Ago2009, 
+19-AC-Assis_Brasil.txt;odo de 21 a 25 de Novembro de 2005 sendo utilizados em sua,
+03-RJ-Tangua.txt;odo de 30/06/2003 a 04/07/2003, sendo
+11-TO-Miracema_do_Tocantins.txt;odo de 19 a 23/07/2004 sendo utilizados em sua execução as técnicas e , 
+29-SE-Itaporanga_DAjuda.txt;odo de 26Ago2009 a 13Nov2009, 
+31-SP-Poloni.txt;odo de 01Abr2010 a 05Mai2010, 
+16-TO-Figueiropolis.txt;odo de 27/06 a 01/07/2005 sendo utilizados em sua execução as , 
+33-GO-Cocalzinho_de_Goias.txt;odo de 02Ago2010 a 01Out2010, 
+16-PE-Serra_Talhada.txt;odo de 27/06 a 01/07/2005, sendo
+02-PA-Abel_Figueiredo.txt;odo de 19/05/2003 à 24/05/2003, sendo
+29-SP-Registro.txt;odo de 01Out2009 a 12Nov2009, 
+15-SE-Poco_Redondo.txt;odo DE 02 A 06/05/2005 sendo utilizados em sua execução as , 
+11-GO-Minacu.txt;odo de 26/07 a 30/07/2004 sendo utilizados em sua execução as técnicas e , 
+ESPECIAL_02_PAC-ES-Itarana.txt;odo de 09Mar2009 a 27Abr2009, 
+08-MA-Davinopolis.txt;odo 26 a 30 de abril de 2004. 
+26-MT-Porto_Estrela.txt;odo de 05Mai2008 a 30Jun2008, 
+22-AM-Fonte_Boa.txt;odo de 26Jul2006 a 15Set2006, 
+27-MG-Vargem_Alegre.txt;odo de 03Nov2008 a 31Dez2008, 
+18-PA-Monte_Alegre.txt;odo de 17 a 21/10/2005, 
+31-ES-Venda_nova_do_imigrante.txt;odo de 09Mar2010 a 30Abr2010, 
+ESPECIAL_01_PAC-PE-Itapissuma.txt;odo de 01Out2008 a 06Out2008, 
+35-AL-Santana_do_Mundau.txt;odo de 17/10/2011 a 23/12/2011. 
+11-MT-Pontes_e_Lacerda.txt;odo de 19 a 30/07/2004, sendo
+27-MG-Alvinopolis.txt;odo de 05Nov2008 a 31Dez2008, 
+35-PR-Indianopolis.txt;odo de 17/10/2011 a 24/11/2011. 
+13-PB-Pianco.txt;odo 08 a 12/11/2004 sendo utilizados em sua execução , 
+05-RR-Iracema.txt;odo de 15/09/2003 a , 
+33-BA-Coaraci.txt;odo de 01Out2010 a 28Out2010, 
+ESPECIAL_02_PAC-MG-Pedro_Leopoldo.txt;odo de 01Abr2009 a 24Abr2009, 
+18-GO-Jatai.txt;odo de 14/10 a 17/11/05, sendo
+33-MG-Sao_Joao_Evangelista.txt;odo de 02Ago2010 a 30Set2010, 
+07-BA-Sao_Desiderio.txt;odo de 24/11/2003 a , 
+11-RO-Monte_Negro.txt;odo 12 a 16 de julho de 2004, sendo
+09-SC-Jacinto_Machado.txt;odo de 17/05/2004 a 26/05/2004, sendo
+09-MS-Sao_Gabriel_do_Oeste.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos: inspeções físicas e documentais, 
+21-RS-Sao_Jose_do_Herval.txt;odo de 12Jun2006 a 09Ago2006, 
+15-BA-Casa_Nova.txt;odo de 02/05/2005 a 06/05/2005, sendo
+20-PI-Sebastiao_Leal.txt;odo de 27Mar2006 a 28Jun2006, 
+RM37045-RR-Amajari.txt;odo de 22/10/2012 a 26/10/2012. 
+ESPECIAL_01_PAC-RS-Monte_Alegre_dos_Campos.txt;odo de 25Ago2008 a 10Set2008, 
+06-PR-Saudade_do_Iguacu.txt;odo de 27/10/2003 a 31/10/2003, sendo
+14-AL-Uniao_dos_Palmares.txt;odo de 29/11 a 03/12 e 06/12 a 08/12/2004 sendo utilizados em sua execução as , 
+05-MT-Lucas_do_Rio_Verde.txt;odo de 15/09/2003 a , 
+18-SP-Regente_Feijo.txt;odo de 17 a 21 de outubro de 2005 sendo utilizadas em sua,
+13-MG-Capitao_Eneas.txt;odo de 08 a 12 de novembro de 2004 sendo utilizados em sua execução inspeções , 
+23-RS-Vista_Alegre.txt;odo de 16Mai2007 a 29Jun2007, 
+ESPECIAL_02_PAC-PE-Itapetim.txt;odo de 01Abr2009 a 24Abr2009, 
+ESPECIAL_02_PAC-MS-Alcinopolis.txt;odo de 01Abr2009 a 24Abr2009, 
+35-MG-Carrancas.txt;odo de 17/10/2011 a 21/10/2011. 
+18-PI-Sao_Joao_da_Fronteira.txt;odo de 17/10 a 21/10/2005 sendo utilizados em sua execução as , 
+17-RS-Novo_Machado.txt;odo de 29/08 a 02/09/2005, sendo
+ESPECIAL_02_PAC-SP-Jumirim.txt;odo de 10Mar2009 a 24Abr2009, 
+27-BA-Ituacu.txt;odo de 03Nov2008 a 22Dez2008, 
+25-RS-Manoel_Viana.txt;odo de 16Out2007 a 18Dez2007, 
+27-MA-Afonso_Cunha.txt;odo de 05Nov2008 a 09Jan2009, 
+11-MG-Comercinho.txt;odo de 26 a 30 de julho de 2004, sendo
+21-SP-Ituverava.txt;odo de 12Jun2006 a 18Ago2006, 
+31-PB-Passagem.txt;odo de 01Abr2010 a 04Mai2010, 
+11-TO-Araguaina.txt;odo de 26 a 30/07/2004 sendo utilizados em sua execução as técnicas e , 
+09-PR-Marialva.txt;odo de 17/05/2004 a 21/05/2004, sendo
+20-PR-Prado_Ferreira.txt;odo de 05Abr2006 a 27Abr2006, 
+08-SP-Tarabai.txt;odo de 12 a 16 de abril de 2004 sendo utilizados em sua execução técnicas e procedimentos, 
+15-PE-Iguaracy.txt;odo de 02 a 06/05/2005 sendo utilizados em sua execução as , 
+26-TO-Sao_Salvador_do_Tocantins.txt;odo de 07Mai2008 a 02Jul2008, 
+22-PR-Ipora.txt;odo de 26Jul2006 a 15Set2006, 
+RM38054-SP-Anhumas.txt;odo de 18/03/2013 a 03/05/2013. 
+35-MG-Patrocinio.txt;odo de 17/10/2011 a 21/10/2011. 
+28-RO-Machadinho_DOeste.txt;odo de 20Mai2009 a 27Jul2009, 
+16-PR-Ortigueira.txt;odo de 27/06/2005 a 08/07/2005, sendo
+03-GO-Goianapolis.txt;odo de 30/06/2003 a 04/07/2003, sendo
+15-PR-Ubirata.txt;odo de 02/05/2005 a 06/05/2004, sendo
+16-SC-Mirim_Doce.txt;odo de 27/06 a 01/07/2005, sendo
+09-AL-Delmiro_Gouveia.txt;odo de 17/05 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+20-GO-Itaja.txt;odo de 31Mar2006 a 11Mai2006, 
+04-BA-Pintadas.txt;odo de 11/08/2003 a 15/08/2003, sendo
+33-RN-Santana_do_Matos.txt;odo de 02Ago2010 a 17Set2010, 
+34-GO-Santo_Antonio_da_Barra.txt;odo de 28/08/2011 a 02/09/2011. 
+26-SP-Martinopolis.txt;odo de 01Jul2008 a 18Jul2008, 
+35-CE-Arneiroz.txt;odo de 17/10/2011 a 21/10/2011. 
+26-PA-Sao_Sebastiao_da_Boa_Vista.txt;odo de 07Mai2007 a 11Jul2008, 
+26-PA-Bannach.txt;odo de 08Mai2008 a 08Jul2008, 
+05-MA-Alto_Alegre_do_Pindare.txt;odo de 15.
+33-CE-Beberibe.txt;odo de 03Ago2010 a 30Set2010, 
+17-GO-Vicentinopolis.txt;odo de 29.
+30-SP-Pirapora_do_Bom_Jesus.txt;odo de 13Out2009 a 15Dez2009, 
+10-PR-Castro.txt;odo de 14/06/2004 a 18/06/2004, sendo
+11-RN-Alexandria.txt;odo de 26 a 30/07/2004 sendo utilizados em sua execução as técnicas e , 
+ESPECIAL_02_PAC-BA-Itirucu.txt;odo de 01Abr2009 a 04Mai2009, 
+11-CE-Iracema.txt;odo de 19 a 23/7/2004,sendo
+14-SC-Marema.txt;odo de 29/11/2004 a 03/12/2004, sendo
+26-MG-Carmo_do_Cajuru.txt;odo de 07Mai2008 a 06Ago2008, 
+32-SP-Bariri.txt;odo de 01Jul2010 a 16Jul2010, 
+28-MA-Sao_Bento.txt;odo de 14Mai2009 a 31Jul2009, 
+ESPECIAL_01_PAC-MA-Anajatuba.txt;odo de 25Ago2008 a 16Set2008, 
+26-PI-Murici_dos_Portelas.txt;odo de 12Mai2008 a 11Jul2008, 
+35-MG-Itinga.txt;odo de 17/10/2011 a 21/11/2011. 
+30-SP-Cerqueira_Cesar.txt;odo de 13Out2009 a 28Dez2009, 
+28-PA-Palestina_do_Para.txt;odo de 20Mai2009 a 23Jul2009, 
+06-AM-Apui.txt;odo de 27/10/2003 a , 
+30-SC-Calmon.txt;odo de 14Out2009 a 07Dez2009, 
+14-RJ-Rio_Claro.txt;odo de 29/11 a 08/12, sendo
+29-BA-Potiragua.txt;odo de 01Out2009 a 12Nov2009, 
+11-MA-Sao_Raimundo_das_Mangabeiras.txt;odo de 26 a 30 de julho de 2004. 
+RM37042-RN-Passa e Fica.txt;odo de 21/10/2012 a 26/10/2012. 
+12-PI-Sao_Juliao.txt;odo de 23 a 27/08/2004, sendo
+18-SP-Santa_Adelia.txt;odo de 17 a 21 de outubro de 2005, sendo
+32-PA-Anajas.txt;odo de 01Jul2010 a 01Set2010, 
+20-MT-Jaciara.txt;odo de 23Mar2006 a 22Mai2006, 
+29-SP-Itapolis.txt;odo de 01Out2009 a 29Out2009, 
+11-SC-Ponte_Serrada.txt;odo de 26/07/2004 a 30/07/2004, sendo
+ESPECIAL_01_PAC-SP-Ubatuba.txt;odo de 25Ago2008 a 30Set2008, 
+33-SP-Piquete.txt;odo de 02Ago2010 a 08Out2010, 
+07-PA-Afua.txt;odo de 24 a 28 de , 
+06-MG-Onca_de_Pitangui.txt;odo de 28 a 31 de , 
+ESPECIAL_02_PAC-RS-Pelotas.txt;odo de 11Mar2009 a 24Abr2009, 
+12-RN-Ipanguacu.txt;odo 23 a 27/08/2004 sendo utilizados em sua execução as técnicas de inspeções físicas e documentais, 
+32-SP-Votorantim.txt;odo de 01Jul2010 a 16Jul2010, 
+28-RS-Vespasiano_Correa.txt;odo de 20Mai2009 a 14Jul2009, 
+25-RJ-Areal.txt;odo de 15Out2007 a 26Dez2007, 
+14-SP-Palmares_Paulista.txt;odo de 29 de novembro a 03 de dezembro de 2.
+14-PI-Paulistana.txt;odo de 29/11 a 10/12/2004 sendo utilizados em sua execução , 
+31-PR-Maua_da_Serra.txt;odo de 09Mar2010 a 11Jun2010, 
+22-RS-Sao_Joao_do_Urtiga.txt;odo de 26Jul2006 a 19Set2006, 
+17-RS-Vitoria_das_Missoes.txt;odo de 29/08 a 02/09/2005, sendo
+RM38041-PR- Terra Roxa.txt;odo de 18/03/2013 a 22/03/2013. 
+02-MG-Sao_Joao_das_Missoes.txt;odo de 19/05/2003 à 24/05/2003, sendo
+13-GO-Posse.txt;odo 08.
+08-SP-Valentim_Gentil.txt;odo de 12/04/2004 a 16/04/2004 sendo utilizados em sua execução as técnicas e procedimentos constituídos de inspeções físicas e documentais, 
+25-PI-Campo_do_Piaui.txt;odo de 21Out2007 a 27Dez2007, 
+12-PR-Boa_Ventura_de_Sao_Roque.txt;odo de 23/08/2004 a 27/08/2004, sendo
+03-RS-Itaqui.txt;odo de 30/06/2003 a 04/07/2003, sendo
+29-PB-Mato_Grosso.txt;odo de 25Ago2009 a 06Out2009, 
+22-BA-Utinga.txt;odo de 19Jul2006 a 29Set2006, 
+07-SP-Ilhabela.txt;odo de 24 a 28 de , 
+18-MG-Igaratinga.txt;odo de 17 de outubro a 21 de outubro de 2005, sendo
+25-SC-Piratuba.txt;odo de 15Out2007 a 12Nov2007, 
+21-MG-Santa_Rosa_da_Serra.txt;odo de 12Jun2006 a 11Ago2006, 
+28-SE-Ilha_das_Flores.txt;odo de 21Mai2009 a 13Jul2009, 
+21-AM-Canutama.txt;odo de 12Jun2006 a 07Jul2006, 
+31-PE-Lagoa_do_Carro.txt;odo de 18Jan2010 a 14Mai2010, 
+17-MS-Sete_Quedas.txt;odo de 29 de agosto a 03 de setembro do corrente ano sendo,
+23-PB-Catingueira.txt;odo de 15Mai2007 a 20Set2007, 
+10-SP-Matao.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução técnicas e , 
+10-RS-Tunas.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as técnicas e , 
+32-MG-Senador_Cortes.txt;odo de 01Jul2010 a 17Ago2010, 
+18-TO-Fortaleza_do_Tabocao.txt;odo de 17/10 a 21/10/2005 sendo utilizados em sua execução as , 
+ESPECIAL_02_PAC-PA-Curua.txt;odo de 05Mar2009 a 26Mar2009, 
+28-CE-Camocim.txt;odo de 20Mai2009 a 01Jul2009, 
+06-SP-Guararapes.txt;odo de 29/10/2003 a , 
+12-RS-Nova_Esperanca_do_Sul.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução técnicas e procedimentos , 
+20-SP-Salto.txt;odo de 31Mar2006 a 01Jun2006, 
+22-MG-Cruzeiro_da_Fortaleza.txt;odo de 25Jul2006 a 22Set2006, 
+20-RJ-Belford_Roxo.txt;odo de 03Abr2006 a 13Jun2006, 
+08-PA-Santa_Luzia_do_Para.txt;odo de 26 à 30.
+27-AL-Sao_Luis_do_Quitunde.txt;odo de 05Nov2008 a 30Dez2008, 
+14-BA-Jacobina.txt;odo de 29/11 a 10/12/2004, sendo
+06-PB-Vieiropolis.txt;odo de 30/10/2003 a , 
+RM36005-CE-Groairas.txt;odo de 06/08/2012 a 10/08/2012. 
+31-SP-Viradouro.txt;odo de 01Abr2010 a 06Mai2010, 
+RM37016-MA-Bacuri.txt;odo de 22/10/2012 a 08/11/2012. 
+20-PR-Ivate.txt;odo de 03Abr2005 a 02Mai2006, 
+35-PE-Agrestina.txt;odo de 17/10/2011 a 21/10/2011. 
+ESPECIAL_01_PAC-PR-Bela_Vista_da_Caroba.txt;odo de 20Ago2008 a 30Set2008, 
+16-PA-Itupiranga.txt;odo de 27/06 a 01/07/2005, 
+28-SC-Laguna.txt;odo de 21Mai2009 a 19Jun2009, 
+03-BA-Baixa_Grande.txt;odo de 30/06/2003 a 04/07/2003, sendo
+12-SE-Boquim.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+21-RS-Nicolau_Vergueiro.txt;odo de 12Jun2006 a 10Ago2006, 
+ESPECIAL_02_PAC-SP-Juquitiba.txt;odo de 10Mar2009 a 24Abr2009, 
+11-SP-Dracena.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução técnicas e , 
+07-RS-Triunfo.txt;odo de 24 a , 
+29-SC-Chapeco.txt;odo de 25Ago2009 a 21Jan2010, 
+21-SP-Cruzalia.txt;odo de 13Jun2006 a 28Jul2006, 
+10-RN-Lagoa_Nova.txt;odo de 14 a 25/06/2004 sendo utilizados em sua execução as técnicas e , 
+09-RS-Guapore.txt;odo de 17 a 21/05/2004, sendo
+35-MG-Sao_Joao_do_Manteninha.txt;odo de 17/10/2011 a 21/10/2011. 
+21-GO-Iaciara.txt;odo de 12Jun2005 a 07Ago2006, 
+04-RN-Vicosa.txt;odo de 11/08/2003 a 15/08/2003, sendo
+03-PR-Tapejara.txt;odo de 30/06/2003 a 05/07/2003, sendo
+31-MT-Cocalinho.txt;odo de 01Abr2010 a 23Abr2010, 
+10-AP-Mazagao.txt;odo de 14/06 a 18/06/2004 sendo utilizados em sua execução as técnicas e , 
+19-TO-Rio_dos_Bois.txt;odo de 21/11 a 25/11/2005 sendo utilizados em sua execução as , 
+24-SP-Pirangi.txt;odo de 02Ago2007 a 14Set2007, 
+20-BA-Morpara.txt;odo de 30Mar2006 a 19Jun2006, 
+31-SP-Jeriquara.txt;odo de 01Abr2010 a 14Mai2010, 
+RM37025-MT-Luciara.txt;odo de 22/10/2012 a 24/10/2012. 
+ESPECIAL_02_PAC-RO-Guajara_Mirim.txt;odo de 12Mar2009 a 18Mar2009, 
+07-PA-Xinguara.txt;odo de 24/11/2003 a 28/11/2003, 
+09-RN-Tangara.txt;odo de 17 a 28/05/2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeções físicas e documentais, 
+03-SP-Monte_Mor.txt;odo de 30/06/2003 a 04/07/2003, sendo
+32-CE-Independencia.txt;odo de 01Jul2010 a 13Jul2010, 
+06-PR-Prado_Ferreira.txt;odo de 27/10/2003 a 31/10/2003, sendo
+12-MT-Sao_Jose_do_Povo.txt;odo de 23 a 27/08/2004, sendo
+30-PR-Diamante_do_Norte.txt;odo de 18Out2009 a 03Dez2009, 
+ESPECIAL_02_PAC-PI-Padre_Marcos.txt;odo de 10Mar2009 a 01Abr2009, 
+5720_ RM37029-PA-Picarra.txt;odo de 22/10/2012 a 26/10/2012. 
+06-CE-Alto_Santo.txt;odo de 29/10 a 5/11/2003, sendo
+12-RS-Ernestina.txt;odo 23 a 27/08/2004 sendo utilizados em sua execução as técnicas e procedimentos de inspeção física, 
+19-PB-Assuncao.txt;odo 21 a 25/11/2005 sendo utilizadas em sua execução as técnicas,
+31-GO-Carmo_do_rio_verde.txt;odo de 01Abr2010 a 29Jun2010, 
+31-MG-Coronel_Xavier_Chaves.txt;odo de 01Abr2010 a 07Jun2010, 
+06-MA-Santo_Antonio_dos_Lopes.txt;odo de 29/10 a 5/11/2003. 
+05-MG-Claro_dos_Pocoes.txt;odo de 15/09/2003 a 19/09/2003, sendo
+29-MA-Maracacume.txt;odo de 25Ago2009 a 31Out2009, 
+RM38003-AP- Ferreira Gomes.txt;odo de 20/03/2013 a 27/03/2013. 
+27-MT-Juruena.txt;odo de 04Nov2008 a 19Dez2008, 
+27-PR-Saudade_do_Iguacu.txt;odo de 03Nov2008 a 31Dez2008, 
+19-SP-Uchoa.txt;odo de 21 a 25 de novembro de 2005 sendo utilizados em sua,
+25-BA-Tanque_Novo.txt;odo de 15Out2007 a 31Dez2007, 
+22-BA-Potiragua.txt;odo de 26Jul2006 a 29Set2006, 
+20-SP-Elias_Fausto.txt;odo de 31Mar2005 a 01Jun2006, 
+RM37030-PB-Cacimba de Dentro.txt;odo de 22/10/2012 a 26/10/2012. 
+12-MT-Planalto_da_Serra.txt;odo de 23 a 27/08/2004, sendo
+34-MG-Santana_de_Cataguases.txt;odo de 29/08/2011 a 02/09/2011. 
+RM38036-PE-Terezinha.txt;odo de 18/03/2013 a 22/03/2013. 
+28-PB-Cuite_de_Mamanguape.txt;odo de 01Jul2009 a 07Jul2009, 
+10-PR-Sao_Sebastiao_da_Amoreira.txt;odo de 14/06/2004 a 18/06/2004, sendo
+16-MG-Senador_Cortes.txt;odo 27 de junho a 01 de julho de 2005, sendo
+14-MS-Juti.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+RM36007-CE-Sobral.txt;odo de 06/08/2012 a 10/09/2012. 
+29-RS-Nao_Me_Toque.txt;odo de 24Ago2009 a 20Out2009, 
+16-SP-Barbosa.txt;odo de 27 de junho a 01 de julho de 2005 sendo utilizados em sua,
+RM36019-PR-Pontal do Parana.txt;odo de 06/08/2012 a 10/08/2012. 
+02-PE-Alagoinha.txt;odo de 19/05/2003 a 24/05/2003, sendo
+13-SC-Palmitos.txt;odos de 08 a 12/11/2004, sendo
+32-MS-Douradina.txt;odo de 01Jul2010 a 09Jul2010, 
+27-PE-Santa_Cruz.txt;odo de 03Nov2008 a 29Dez2008, 
+07-MT-Sinop.txt;odo de 24/11/2003 a , 
+28-SP-Planalto.txt;odo de 20Mai2009 a 13Jul2009, 
+16-MG-Pratinha.txt;odo 27 de junho a 01 de julho de 2005 sendo utilizados em sua,
+15-CE-Aracoiaba.txt;odo de 02/05 a 06/05/2005, sendo
+28-RN-Sao_Miguel_do_Gostoso.txt;odo de 20Mai2009 a 16Jul2009, 
+09-GO-Morrinhos.txt;odo de 17.
+24-GO-Aracu.txt;odo de 01Ago2007 a 29Out2007, 
+RM36013-PA-Sao Joao da Ponta.txt;odo de 08/08/2012 a 10/08/2012. 
+35-CE-Poranga.txt;odo de 17/10/2011 a 21/10/2011. 
+12-CE-General_Sampaio.txt;odo de 23/8 a 27/8/2004, sendo
+25-PR-Boa_Esperanca_do_Iguacu.txt;odo de 17Out2007 a 31Dez2007, 
+11-MG-Sete_Lagoas.txt;odo de 12 a 16 de julho de 2004, sendo
+22-RS-Benjamin_Constant_do_Sul.txt;odo de 26Jul2006 a 01Set2006, 
+05-PB-Poco_Dantas.txt;odo de 15/09/2003 a , 
+04-AC-Assis_Brasil.txt;odo de 11/08/2003 a 15/08/2003, sendo
+27-GO-Guapo.txt;odo de 05Nov2008 a 31Dez2008, 
+35-SP-Riversul.txt;odo de 17/10/2011 a 21/10/2011. 
+07-PR-Borrazopolis.txt;odo de 24/11/2003 a 28/11/2003, sendo
+09-PI-Bom_Jesus.txt;odo de 17 a 21.
+23-RN-Brejinho.txt;odo de 16Mai2007 a 20Set2007, 
+04-RN-Rodolfo_Fernandes.txt;odo de 11/08/2003 a 15/08/2003, sendo
+15-RS-Tramandai.txt;odo de 02 a 06/05/2005, sendo
+06-RS-Colinas.txt;odo 27 a , 
+05-RS-Alecrim.txt;odo de 15/09/2003 a , 
+06-PI-Sao_Pedro_do_Piaui.txt;odo de 29/10 a , 
+22-CE-Salitre.txt;odo de 26Jul2006 a 30Ago2006, 
+24-AL-Jequia_da_Praia.txt;odo de 01Ago2007 a 28Set2007, 
+RM38049-RS-Ubiretama.txt;odo de 18/03/2013 a 22/03/2013. 
+33-GO-Urutai.txt;odo de 02Ago2010 a 04Out2010, 
+23-MG-Carmopolis_de_Minas.txt;odo de 16Mai2007 a 13Ago2007, 
+18-CE-Nova_Olinda.txt;odo de 17 a 21/10/2005 sendo utilizados em sua execução inspeções , 
+RM37009-CE-Jaguaribara.txt;odo de 22/10/2012 a 26/10/2012. 
+24-MG-Caranaiba.txt;odo de 31Jul2007 a 15Out2007, 
+24-SP-Aruja.txt;odo de 02Ago2007 a 14Set2007, 
+23-CE-Quiterianopolis.txt;odo de 12Jul2007 a 17Ago2007, 
+16-TO-Taguatinga.txt;odo de 27/06 à 01/07/2005 sendo utilizados em sua execução as , 
+32-SP-Ribeirao_Branco.txt;odo de 01Jul2010 a 16Jul2010, 
+23-GO-Campos_Belos.txt;odo de 16Mai2006 a 29Jun2007, 
+10-MG-Antonio_Prado_de_Minas.txt;odo de 14 a 18 de junho de 2004, sendo
+29-RS-Igrejinha.txt;odo de 24Ago2009 a 19Out2009, 
+06-SC-Timbo_Grande.txt;odo de 03/11/2003 a 07/11/2003, sendo
+20-GO-Sao_Luiz_do_Norte.txt;odo de 30Mar2006 a 12Mai2006, 
+26-AL-Roteiro.txt;odo de 07Mai2008 a 30Jun2008, 
+27-MS-Itapora.txt;odo de 04Nov2008 a 15Dez2008, 
+30-PI-Altos.txt;odo de 13Out2009 a 16Dez2009, 
+23-MA-Jenipapo_dos_Vieiras.txt;odo de 01Jul2007 a 21Set2007, 
+ESPECIAL_02_PAC-AL-Belo_Monte.txt;odo de 01Abr2009 a 09Abr2009, 
+16-SP-Onda_Verde.txt;odo de 27/06/05 a 01/07/05, sendo
+12-CE-Amontada.txt;odo de 23/8 a 27/8/2004 sendo utilizados em sua execução as técnicas e , 
+05-PA-Melgaco.txt;odo de 15/09/2003 a , 
+34-RS-Segredo.txt;odo de 29/08/2011 a 02/09/2011. 
+30-GO-Inhumas.txt;odo de 26Out2009 a 11Fev2010, 
+35-RN-Sao_Miguel.txt;odo de 17/10/2011 a 21/10/2011. 
+07-MT-Acorizal.txt;odo de 24 a 28 de , 
+ESPECIAL_02_PAC-PR-Pato_Branco.txt;odo de 09Mar2009 a 24Abr2009, 
+27-PI-Francinopolis.txt;odo de 05Nov2008 a 18Dez2008, 
+26-RS-Entre-Ijuis.txt;odo de 07Mai2008 a 11Jul2008, 
+06-MG-Alvarenga.txt;odo de 28 a 31 de , 
+14-MG-Lagoa_Formosa.txt;odo de 29 de novembro a 3 de dezembro de 2004 sendo utilizados em sua execução , 
+ESPECIAL_01_PAC-MA-Tasso_Fragoso.txt;odo de 25Ago2008 a 13Out2008, 
+25-TO-Porto_Alegre_do_Tocantins.txt;odo de 17Out2006 a 19Nov2007, 
+13-PR-Capanema.txt;odo de 08/11/2004 a 12/11/2004, sendo
+02-RS-Independencia.txt;odo de 19/05/2003 à 24/05/2003, sendo
+17-RN-Pendencias.txt;odo 29/08 a 06/09/2005 sendo utilizados em sua execução as,
+14-MG-Jequitiba.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+22-AP-Vitoria_do_Jari.txt;odo de 27Jul2006 a 30Out2006, 
+17-MT-Varzea_Grande.txt;odo de 29.
+08-SC-Sao_Bonifacio.txt;odo de 12/04/2004 a 16/04/2004, sendo
+22-BA-Bonito.txt;odo de 24Jul2006 a 29Set2006, 
+ESPECIAL_01_PAC-SC-Imbituba.txt;odo de 26Ago2008 a 30Set2008, 
+24-AM-Careiro.txt;odo de 01Ago2007 a 14Set2007, 
+12-MG-Santa_Helena_de_Minas.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução as técnicas e , 
+21-PE-Taracatu.txt;odo de 12Jun2006 a 02Set2006, 
+34-SE-Lagarto.txt;odo de 28/08/2011 a 02/09/2011. 
+RM37017-MG-Campanha.txt;odo de 22/10/2012 a 26/10/2012. 
+ESPECIAL_02_PAC-PB-Solanea.txt;odo de 05Mar2009 a 26Mar2009, 
+21-RS-Boa_Vista_do_Burica.txt;odo de 12Jun2006 a 08Ago2006, 
+07-MG-Jacui.txt;odo de 24 a 28 de , 
+28-BA-Ibirapua.txt;odo de 01Jul2009 a 27Jul2009, 
+32-AL-Branquinha.txt;odo de 18Mai2010 a 29Out2010, 
+ESPECIAL_01_PAC-GO-Goianesia.txt;odo de 01Out2008 a 03Out2008, 
+33-PI-Esperantina.txt;odo de 02Ago2010 a 21Out2010, 
+RM37054-SP-Ilha Solteira.txt;odo de 22/10/2012 a 26/10/2012. 
+14-BA-Conceicao_do_Jacuipe.txt;odo de 29/11 a 03/12/2004, sendo
+11-RS-Sananduva.txt;odo de 26 a 30/07/2004 sendo utilizados em sua execução as técnicas e procedimentos como inspeções físicas e documentais, 
+28-BA-Cocos.txt;odo de 20Mai2009 a 22Jul2009, 
+21-BA-Palmeiras.txt;odo de 05Jun2005 a 29Ago2006, 
+19-SE-Nossa_Senhora_do_Socorro.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+15-SC-Ilhota.txt;odo de 02 a 06/05/2005, sendo
+18-RJ-Carmo.txt;odo de 17 a 21 de outubro de 2005 sendo utilizados em sua,
+07-CE-Campos_Sales.txt;odo de 24 a , 
+ESPECIAL_01_PAC-AP-Porto_Grande.txt;odo de 28Ago2008 a 04Set2008, 
+5378_ RM37007-CE-Hidrolandia .txt;odo de 22/10/2012 a 26/10/2012. 
+28-MA-Olho_DAgua_das_Cunhas.txt;odo de 20Mai2009 a 24Jul2009, 
+35-CE-Farias_Brito.txt;odo de 17/10/2011 a 21/10/2011. 
+25-PA-Sao_Geraldo_do_Araguaia.txt;odo de 17Out2007 a 31Dez2007, 
+32-MG-Sao_Sebastiao_do_Rio_Verde.txt;odo de 01Jul2010 a 20Ago2010, 
+RM36008-ES-Sao Roque do Canaa.txt;odo de 06/08/2012 a 15/08/2012. 
+ESPECIAL_02_PAC-MG-Senhora_de_Oliveira.txt;odo de 01Abr2009 a 20Abr2009, 
+04-RR-Caracarai.txt;odo de 11/08/2003 a 15/08/2003, sendo
+13-RS-Sao_Luiz_Gonzaga.txt;odo de 08 a 12 de novembro de 2004 sendo utilizados em sua execução as técnicas de , 
+34-SP-Cesario_Lange.txt;odo de 29/08/2011 a 02/09/2011. 
+09-MA-Pocao_de_Pedras.txt;odo 17 A 26 de maio de 2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+17-TO-Araguacu.txt;odo de 29/08 a 02/07/2005 sendo utilizados em sua execução as , 
+15-SP-Igarapava.txt;odo de 02 a 05 de maio de 2005 sendo utilizados em sua execução , 
+33-SP-Lourdes.txt;odo de 02Ago2010 a 30Set2010, 
+14-TO-Lavandeira.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas e , 
+26-ES-Iconha.txt;odo de 01Jul2008 a 08Ago2008, 
+29-BA-Fatima.txt;odo de 01Out2009 a 27Nov2009, 
+15-SP-Juquia.txt;odo de 02 a 05 de maio de 2005 sendo utilizados em sua execução , 
+14-SP-Estrela_dOeste.txt;odo de 29 de novembro a 3 de dezembro de 2004 sendo utilizados em sua execução , 
+03-RN-Taipu.txt;odo de 30/06/2003 a 04/07/2003, sendo
+25-SE-Santana_de_Sao_Francisco.txt;odo de 15Out2007 a 13Nov2007, 
+17-MG-Pirauba.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as,
+ESPECIAL_01_PAC-PB-Livramento.txt;odo de 20Ago2008 a 22Set2008, 
+23-AM-Manicore.txt;odo de 15Mai2007 a 05Jul2007, 
+04-RS-Itaara.txt;odo de 11/08/2003 a 15/08/2003, sendo
+RM38006-BA- Cipo.txt;odo de 18/03/2013 a 22/03/2013. 
+12-MA-Riachao.txt;odo de 23 de agosto a 3/9/2004 sendo utilizados em sua execução as técnicas e , 
+RM37059-SP-Santo Antonio do Jardim.txt;odo de 22/10/2012 a 26/10/2012. 
+21-PB-Cajazeiras.txt;odo de 01Nov2005 a 09Nov2006, 
+07-RN-Serrinha.txt;odo de 24/11/2003 a 28/11/2003, sendo
+30-PB-Quixaba.txt;odo de 13Out2009 a 26Nov2009, 
+RM36002-AM-Iranduba.txt;odo de 06/08/2012 a 14/08/2012. 
+25-RO-Teixeiropolis.txt;odo de 15Out2007 a 14Nov2007, 
+35-RJ-Porciuncula.txt;odo de 17/10/2011 a 25/01/2012. 
+33-AM-Benjamin_Constant.txt;odo de 15Set2010 a 20Set2010, 
+23-GO-Teresina_de_Goias.txt;odo de 02Jul2007 a 30Jun2007, 
+02-CE-Santa_Quiteria.txt;odo de 19/05/2003 à 23/05/2003, sendo
+19-RN-VenhaVer.txt;odo 21/11 a 25/11/2005 sendo utilizados em sua execução as,
+ESPECIAL_02_PAC-MA-Tuntum.txt;odo de 12Mar2009 a 31Mar2009, 
+30-PE-Tamandare.txt;odo de 09Out2009 a 31Dez2009, 
+16-MA-Caxias.txt;odo de 27 de junho a 08 de julho de 2005, sendo
+19-SC-Bombinhas.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+RM37019-MG-Nanuque.txt;odo de 22/10/2012 a 30/10/2012. 
+06-RO-Buritis.txt;odo de 29/10/2003 a , 
+13-MG-Jordania.txt;odo de 08 a 12/11/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+03-CE-Iraucuba.txt;odo de 30/06/2003 a 04/07/2003, sendo
+ESPECIAL_02_PAC-AM-Maues.txt;odo de 11Mar2009 a 12Mai2009, 
+31-AL-Taquarana.txt;odo de 12Mar2010 a 22Jul2010, 
+13-RS-Seberi.txt;odo de 08 a 12 de novembro de 2004 sendo utilizados em sua execução as técnicas de , 
+RM38051-SC-Mirim Doce.txt;odo de 18/03/2013 a 22/03/2013. 
+32-MA-Senador_La_Rocque.txt;odo de 01Jul2010 a 04Ago2010, 
+16-MG-Pirajuba.txt;odo de 27 de junho a 01 de julho de 2005, sendo
+05-BA-Itapetinga.txt;odo de 15/09/2003 a , 
+29-MT-Matupa.txt;odo de 05Out2009 a 06Out2009, 
+26-MG-Bandeira_do_Sul.txt;odo de 05Mai2008 a 24Jul2008, 
+34-PI-Betania_do_Piaui.txt;odo de 29/08/2011 a 02/09/2011. 
+30-MA-Urbano_Santos.txt;odo de 13Out2009 a 28Dez2009, 
+13-MT-Nova_Mutum.txt;odo de 8.
+29-CE-Ubajara.txt;odo de 24Ago2009 a 28Set2009, 
+09-PE-Nazare_da_Mata.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos utilizadas nas fiscalizações e auditorias governamentais, 
+14-MT-Sao_Felix_do_Araguaia.txt;odo de 29.
+35-PE-Taquaritinga_do_Norte.txt;odo de 17/10/2011 a 21/10/2011. 
+14-MG-Cabo_Verde.txt;odo de 28/11 a 04/12 sendo utilizados em sua execução as técnicas de inspeções , 
+RM37013-GO-Ipora.txt;odo de 22/10/2012 a 26/10/2012. 
+ESPECIAL_02_PAC-MG-Naque.txt;odo de 01Abr2009 a 20Abr2009, 
+21-RN-Agua_Nova.txt;odo de 13Jun2006 a 01Ago2006, 
+08-PI-Cristino_Castro.txt;odo de 12 a 16/04/2004, sendo
+24-RN-Martins.txt;odo de 01Jan2007 a 23Nov2007, 
+06-CE-Antonina_do_Norte.txt;odo de 30/10 a , 
+26-BA-Aramari.txt;odo de 05Mai2008 a 30Jun2008, 
+31-MA-Mata_roma.txt;odo de 10Mar2010 a 20Mai2010, 
+30-MG-Estrela_do_Indaia.txt;odo de 13Out2009 a 23Dez2009, 
+RM38017-MA-Brejo de Areia.txt;odo de 11/03/2013 a 26/03/2013. 
+15-RS-Mata.txt;odo de 02 a 06/05/2005, sendo
+10-MT-Ribeirao_Cascalheira.txt;odo 14 a 18/06/04 sendo utilizados em sua execução as seguintes técnicas e , 
+04-PA-Castanhal.txt;odo de 11/08/2003 a 15/08/2003, sendo
+18-RS-Roca_Sales.txt;odo de 17 a 21/10/2005, sendo
+23-SP-Pratania.txt;odo de 16Mai2007 a 02Jul2007, 
+34-PR-Roncador.txt;odo de 22/08/2011 a 02/09/2011. 
+ESPECIAL_02_PAC-RJ-Belford_Roxo.txt;odo de 01Abr2009 a 01Mai2009, 
+28-RJ-Casimiro_de_Abreu.txt;odo de 01Jul2009 a 10Ago2009, 
+22-PR-Pitangueiras.txt;odo de 26Jul2006 a 01Nov2006, 
+RM38059-SP-Pontal.txt;odo de 18/03/2013 a 28/03/2013. 
+20-PA-Mae_do_Rio.txt;odo de 05Abr2006 a 05Jul2006, 
+10-MG-Esmeraldas.txt;odo de 14 a 18 de junho de 2004, sendo
+23-BA-Banzae.txt;odo de 21Mar2007 a 10Jul2007, 
+18-TO-Brejinho_de_Nazare.txt;odo de 17/10 a 21/10/2005 sendo utilizados em sua execução as , 
+12-RO-Ji_Parana.txt;odo 23 de agosto a 03 de setembro de 2004, sendo
+07-PR-Sao_Manoel_do_Parana.txt;odo de 24/11/2003 a 28/11/2003, sendo
+27-MS-Tres_Lagoas.txt;odo de 03Nov2008 a 28Jan2009, 
+30-PA-Viseu.txt;odo de 14Out2009 a 16Dez2009, 
+RM38039-PR- Ariranha do Avai.txt;odo de 18/03/2013 a 21/03/2013. 
+22-CE-Itaitinga.txt;odo de 26Jul2006 a 30Set2006, 
+10-GO-Campinorte.txt;odo de 14 a 18.
+29-PR-Jardim_Olinda.txt;odo de 25Ago2009 a 28Out2009, 
+31-MG-Santo_Antonio_do_Monte.txt;odo de 01Abr2010 a 17Jun2010, 
+22-MS-Paranaiba.txt;odo de 26Jul2006 a 18Ago2006, 
+14-SP-Itariri.txt;odo de 29 de novembro a 03 de dezembro de 2004 sendo utilizados em sua execução , 
+17-CE-Caririacu.txt;odo de 29/8 a 2/9/2005 sendo utilizados em sua execução inspeções , 
+24-PI-Coronel_Jose_Dias.txt;odo de 06Ago2007 a 11Dez2007, 
+10-MS-Anaurilandia.txt;odo de 14 a 18/06/2004 sendo utilizados em sua execução as técnicas e , 
+10-MG-Guaraciama.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução as técnicas e , 
+22-SC-Belmonte.txt;odo de 24Jul2006 a 12Set2006, 
+22-PE-Jurema.txt;odo de 24Jul2006 a 29Ago2006, 
+25-BA-Iraquara.txt;odo de 16Out2007 a 17Dez2007, 
+19-BA-Santa_Barbara.txt;odo de 21/11/2005 a 25/11/2005 sendo utilizados em sua execução as , 
+RM37044-RO-Mirante da Serra.txt;odo de 22/10/2012 a 26/10/2012. 
+RM38034-PE - Limoeiro.txt;odo de 18/03/2013 a 22/03/2013. 
+26-GO-Buriti_de_Goias.txt;odo de 01Jul2008 a 15Jul2008, 
+20-BA-Ipupiara.txt;odo de 10Abr2006 a 29Jun2006, 
+07-GO-Amorinopolis.txt;odo de 24.
+27-PB-Carrapateira.txt;odo de 05Nov2008 a 31Dez2008, 
+29-GO-Ouro_Verde_de_Goias.txt;odo de 01Out2009 a 23Out2009, 
+RM38060-TO- Araguatins.txt;odo de 18/03/2013 a 22/03/2013. 
+21-PI-Padre_Marcos.txt;odo de 12Jun2006 a 18Ago2006, 
+22-AL-Olho_dagua_do_Casado.txt;odo de 26Jul2006 a 29Set2006, 
+22-RS-Novo_Hamburgo.txt;odo de 10Jul2006 a 12Set2006, 
+30-ES-Joao_Neiva.txt;odo de 13Out2009 a 26Fev2010, 
+25-RS-Centenario.txt;odo de 16Out2007 a 10Dez2007, 
+31-PI-Dom_Expedito_Lopes.txt;odo de 09Mar2010 a 10Mai2010, 
+06-RN-Jardim_de_Angicos.txt;odo 06/11/2003, sendo
+34-RJ-Marica.txt;odo de 29/08/2011 a 02/09/2011. 
+27-SP-Engenheiro_Coelho.txt;odo de 06Nov2008 a 31Dez2008, 
+27-AM-Maues.txt;odo de 06Nov2008 a 29Dez2008, 
+12-SP-Divinolandia.txt;odo de 23 a 27 de agosto de 2004 sendo utilizadas em sua execução as técnicas de , 
+16-PB-Campo_de_Santana.txt;odo de 27/6 a 1/7/2005 sendo , 
+33-PA-Cameta.txt;odo de 04Ago2010 a 26Nov2010, 
+ESPECIAL_01_PAC-CE-Guaramiranga.txt;odo de 19Ago2008 a 23Set2008, 
+09-CE-Barro.txt;odo de 17 a 21/5/2004 sendo utilizados em sua execução inspeções físicas e documentais, 
+5385_ RM37052-SE-Itaporanga dAjuda.txt;odo de 22/10/2012 a 29/10/2012. 
+07-PA-Vitoria_do_Xingu.txt;odo de 24/11/2003 a , 
+05-PR-Vera_Cruz_do_Oeste.txt;odo de 15/09/2003 a 19/09/2003, sendo
+31-PE-Camutanga.txt;odo de 01Abr2010 a 10Mai2010, 
+ESPECIAL_01_PAC-BA-Cicero_Dantas.txt;odo de 25Ago2008 a 30Set2008, 
+20-MG-Indianopolis.txt;odo de 30Mar2006 a 06Jun2006, 
+15-CE-Sao_Joao_do_Jaguaribe.txt;odo de 02 a 06/5/2005 sendo utilizados em sua execução as técnicas , 
+14-PB-Boa_Ventura.txt;odo 29/11 a 3/12/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+29-MA-Coelho_Neto.txt;odo de 01Out2009 a 13Nov2009, 
+10-MA-Cidelandia.txt;odo de 14 a 18 de junho sendo utilizados em sua execução as técnicas e procedimentos - 
+35-MA-Itaipava_do_Grajau.txt;odo de 17/10/2011 a 21/10/2011. 
+31-TO-Santa_Rosa_do_Tocantins.txt;odo de 08Mar2010 a 10Mai2010, 
+03-SE-Itabaianinha.txt;odo de 30/06/2003 a 04/07/2003, sendo
+32-PA-Curralinho.txt;odo de 03Out2010 a 23Nov2010, 
+16-BA-Medeiros_Neto.txt;odo de 27/06/2005 a 01/07/2005, sendo
+09-BA-Cacule.txt;odo de 17/05 a 21/05/2004 sendo utilizados em sua execução as seguintes técnicas/procedimentos: inspeções físicas e documentais, 
+11-SE-Itabaiana.txt;odo de 26 a 30/07/2004 sendo utilizados em sua execução as técnicas e , 
+34-PB-Curral_de_Cima.txt;odo de 29/08/2011 a 02/09/2011. 
+23-RS-Sentinela_do_Sul.txt;odo de 16Mai2007 a 29Jun2007, 
+31-BA-Pojuca.txt;odo de 01Abr2010 a 24Mai2010, 
+32-MT-Nova_Maringa.txt;odo de 07Mai2010 a 09Jul2010, 
+11-PA-Abaetetuba.txt;odo de 12 a 23/07/2004, 
+18-RS-Nova_Padua.txt;odo de 17 a 21/10/2005, sendo
+20-SP-Bora.txt;odo de 31Mar2006 a 25Mai2006, 
+20-PB-Caldas_Brandao.txt;odo de 30Mar2006 a 25Set2006, 
+14-PR-Ariranha_do_Ivai.txt;odo de 29/11/2004 a 03/12/2004, sendo
+RM37039-PR-Urai.txt;odo de 22/10/2012 a 26/10/2012. 
+27-RN-Acu.txt;odo de 05Nov2008 a 31Dez2008, 
+11-RS-Garibaldi.txt;odo de 12 a 16/07/2004 sendo utilizados em sua execução as técnicas e , 
+ESPECIAL_01_PAC-PB-Belem.txt;odo de 20Ago2008 a 22Set2008, 
+07-RJ-Pinheiral.txt;odo de 24/11/2003 a , 
+31-SP-Ipua.txt;odo de 01Abr2010 a 13Mai2010, 
+25-PI-Canavieira.txt;odo de 22Out2007 a 31Mar2008, 
+22-MG-Divino_das_Laranjeiras.txt;odo de 24Jul2006 a 27Set2006, 
+ESPECIAL_01_PAC-AL-Piranhas.txt;odo de 01Out2008 a 07Out2008, 
+16-PI-Capitao_de_Campos.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+13-PA-Nova_Ipixuna.txt;odo 08 a 17/11/2004 por meio de inspeções físicas e documentais, 
+ESPECIAL_01_PAC-BA-Simoes_Filho.txt;odo de 01Out2008 a 16Out2008, 
+32-SC-Doutor_Pedrinho.txt;odo de 17Mai2010 a 21Jun2010, 
+RM37037-PR-Adrianopolis.txt;odo de 22/10/2012 a 26/10/2012. 
+24-PE-Sirinhaem.txt;odo de 27Jul2007 a 27Set2007, 
+30-SP-Pompeia.txt;odo de 04Jan2010 a 21Jan2010, 
+08-BA-Pindobacu.txt;odo de 12 a 23/04/2004, sendo
+ESPECIAL_01_PAC-PI-Batalha.txt;odo de 01Out2008 a 08Out2008, 
+28-BA-Santo_Amaro.txt;odo de 01Jul2009 a 25Ago2009, 
+18-PR-Formosa_do_Oeste.txt;odo de 17/10/2005 a 21/10/2005, sendo
+ESPECIAL_01_PAC-ES-Alegre.txt;odo de 19Ago2008 a 29Set2008, 
+27-BA-Buerarema.txt;odo de 05Nov2008 a 05Jan2009, 
+12-BA-Seabra.txt;odo de 23 a 27/08/2004, sendo
+31-RO-Primavera_de_Rondonia.txt;odo de 09Mar2010 a 11Mai2010, 
+20-RS-Arroio_do_Sal.txt;odo de 30Mar2005 a 13Jun2006, 
+25-CE-Barroquinha.txt;odo de 10Out2007 a 25Jan2008, 
+28-MG-Felicio_dos_Santos.txt;odo de 01Jul2009 a 22Jul2009, 
+25-PA-Sao_Felix_do_Xingu.txt;odo de 17Out2007 a 10Jan2008, 
+23-AL-Japaratinga.txt;odo de 09Mai2007 a 24Jul2007, 
+04-MG-Uniao_de_Minas.txt;odo de 11/08/2003 a 15/08/2003, sendo
+08-RJ-Cambuci.txt;odo de 26 a 30/04/04, sendo
+25-SP-Parisi.txt;odo de 17Out2007 a 20Dez2007, 
+29-RN-Ipanguacu.txt;odo de 25Ago2009 a 16Out2009, 
+08-AM-Carauari.txt;odo de 12 a 16/04/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+16-SP-Arapei.txt;odo de 20 a 24 de junho de 2005, sendo
+ESPECIAL_01_PAC-PI-Sao_Jose_do_Peixe.txt;odo de 01Out2008 a 08Out2008, 
+34-PA-Igarape-Miri.txt;odo de 28/08/2011 a 02/09/2011. 
+21-BA-Governador_Mangabeira.txt;odo de 12Jun2003 a 08Ago2006, 
+15-MG-Japonvar.txt;odo de 02 a 06 de maio de 2005, sendo
+06-SP-Sumare.txt;odo de 29/10/2003 a , 
+ESPECIAL_01_PAC-CE-Juazeiro_do_Norte.txt;odo de 18Ago2008 a 30Set2008, 
+11-SP-Promissao.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução técnicas e , 
+29-BA-Antonio_Goncalves.txt;odo de 01Out2009 a 30Out2009, 
+08-RR-Bonfim.txt;odo de 26 a 30 de abril de 2004, sendo
+27-SC-Arvoredo.txt;odo de 13Out2008 a 23Dez2008, 
+30-RR-Rorainopolis.txt;odo de 13Out2009 a 07Dez2009, 
+10-PI-Guaribas.txt;odo de 14 a 18/06/2004, sendo
+20-BA-Nazare.txt;odo de 30Mar2006 a 13Jun2006, 
+14-PI-Cocal_de_Telha.txt;odo de 29/11 a 03/12/2004, sendo
+35-BA-Rio_do_Antonio.txt;odo de 17/10/2011 a 21/10/2011. 
+17-PB-Esperanca.txt;odo de 29/8 a 2/9/2005 sendo utilizados em sua execução as técnicas de , 
+18-MG-Santa_Efigenia_de_Minas.txt;odo de 17/10 a 21/10/2005 sendo utilizados em sua execução as,
+10-RS-Sao_Pedro_do_Sul.txt;odo de 14/06/2004 a 18/06/2004, sendo
+33-CE-Crateus.txt;odo de 03Ago2010 a 30Set2010, 
+21-MG-Braunas.txt;odo de 12Jun2006 a 05Jul2006, 
+35-PR-Bituruna.txt;odo de 17/10/2011 a 18/10/2011. 
+30-RS-Itaqui.txt;odo de 13Out2009 a 08Dez2009, 
+11-CE-Itatira.txt;odo de 19 a 23/7/2004,sendo
+31-BA-Cachoeira.txt;odo de 01Abr2010 a 24Mai2010, 
+13-PI-Simplicio_Mendes.txt;odo de 08 a 19/11/2004 sendo utilizados em sua execução técnicas , 
+13-SP-Pontal.txt;odo de 08 a 12 de novembro de 2004 sendo utilizados em sua execução as técnicas de , 
+30-MG-Imbe_de_Minas.txt;odo de 14Out2009 a 27Abr2010, 
+35-MG-Desterro_Entre_Rios.txt;odo de 17/10/2011 a 21/10/2011. 
+17-SP-Sales.txt;odo de 29 de agosto a 02 de setembro de 2005, sendo
+06-RR-Sao_Joao_da_Baliza.txt;odo de 29.
+24-RO-Nova_Uniao.txt;odo de 30Jul2007 a 24Set2007, 
+33-PA-Cachoeira_do_Piria.txt;odo de 01Out2010 a 19Nov2010, 
+16-MG-Arcos.txt;odo de 27 de junho a 01 de julho de 2005, sendo
+10-MG-Cambuquira.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução as técnicas e , 
+16-SP-Sao_Jose_do_Rio_Preto.txt;odo de 20 a 24/06/2005 sendo utilizados em sua , 
+04-GO-Mutunopolis.txt;odo de 11/07/2003 a 15/07/2003, sendo
+32-PB-Imaculada.txt;odo de 17Mai2010 a 19Jun2010, 
+35-GO-Palminopolis.txt;odo de 17/10/2011 a 21/10/2011. 
+07-AP-Ferreira_Gomes.txt;odo de 24/11 a , 
+10-PR-Barracao.txt;odo de 14/06/2004 a 18/06/2004, sendo
+06-PA-Agua_Azul_do_Norte.txt;odo de 29.
+18-SC-Videira.txt;odo de 17/10 a 21/10/2005, sendo
+30-RS-Cerro_Grande_do_Sul.txt;odo de 13Out2009 a 09Dez2009, 
+ESPECIAL_02_PAC-PE-Timbauba.txt;odo de 01Abr2009 a 24Abr2009, 
+11-MA-Sao_Luis_Gonzaga.txt;odo 12 a 16/07/2004 sendo utilizados em sua execução as técnicas e procedimentos: , 
+15-GO-Acreuna.txt;odo de 02.
+18-MS-Terenos.txt;odo de 17 a 21/10/2005 sendo utilizados em sua execução as,
+02-GO-Inaciolandia.txt;odo de 19/05/2003 à 24/05/2003, sendo
+30-TO-Marianopolis_do_Tocantins.txt;odo de 14Out2009 a 20Nov2009, 
+32-SC-Peritiba.txt;odo de 11Mai2008 a 18Jun2010, 
+04-PR-Espigao_Alto_do_Iguacu.txt;odo de 11/08/2003 a 15/08/2003, sendo
+ESPECIAL_02_PAC-BA-Itubera.txt;odo de 01Abr2009 a 31Mar2009, 
+RM37018-MG-Itutinga.txt;odo de 22/10/2012 a 26/10/2012. 
+09-ES-Pancas.txt;odo de 17 a 21/05/2004 sendo utilizados em sua execução as seguintes técnicas e , 
+07-RJ-Sao_Fidelis.txt;odo de 24/11/2003 a , 
+15-RJ-Santo_Antonio_de_Padua.txt;odo de 02 a 12/05/2005 sendo utilizados em sua execução as , 
+21-PB-Caicara.txt;odo de 12Jun2006 a 29Ago2006, 
+04-PA-Porto_de_Moz.txt;odo de 11.
+34-BA-Lamarao.txt;odo de 29/08/2011 a 02/09/2011. 
+09-RS-Ijui.txt;odo de 17/04/2004 a 21/04/2004, sendo
+07-RS-Sao_Jorge.txt;odo de 24 a 28 de novembro de 2003, sendo
+04-MG-Taquaracu_de_Minas.txt;odo de 11/08/2003 a 18/08/2003, sendo
+RM036001-AL-Jundia.txt;odo de 06/08/2012 a 10/08/2012. 
+23-PA-Ourilandia_do_Norte.txt;odo de 16Mai2007 a 06Jul2007, 
+21-TO-Angico.txt;odo de 12Jun2006 a 07Jul2006, 
+29-PA-Ponta_de_Pedras.txt;odo de 01Out2009 a 01Dez2009, 
+05-MG-Sabinopolis.txt;odo de 15/09/2003 a , 
+08-SC-Laguna.txt;odo de 12/04/2004 a 23/04/2004, sendo
+23-TO-Ponte_Alta_do_Tocantins.txt;odo de 15Mai2007 a 29Jun2007, 
+12-BA-Chorrocho.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+17-MG-Uruana_de_Minas.txt;odo de 29 de agosto a 2 de setembro de 2005 sendo utilizados em,
+26-BA-Conceicao_do_Coite.txt;odo de 05Mai2008 a 16Jul2008, 
+23-AP-Oiapoque.txt;odo de 17Mai2007 a 08Jun2007, 
+RM38001-AL- Boca da Mata.txt;odo de 18/03/2013 a 22/03/2013. 
+30-RN-Sitio_Novo.txt;odo de 14Out2009 a 11Dez2009, 
+26-RN-Parau.txt;odo de 01Jul2008 a 30Jun2008, 
+07-SE-Telha.txt;odo de 24 a , 
+02-SP-Dobrada.txt;odo de 19/05/2003 à 23/05/2003, sendo
+19-BA-Ibiquera.txt;odo de 21 /11/2005 a 25/11/2005 sendo utilizados em sua execução,
+17-BA-Ibipeba.txt;odo de 29/08/2005 a 02/09/2005, sendo
+04-PI-Santa_Filomena.txt;odo de 11/08/2003 a 15/08/2003, sendo
+ESPECIAL_02_PAC-AP-Laranjal_do_Jari.txt;odo de 23Abr2009 a 23Abr2009, 
+RM37038-PR-Laranjeiras do Sul.txt;odo de 22/10/2012 a 09/11/2012. 
+RM37022-MG-Tapira.txt;odo de 22/10/2012 a 26/10/2012. 
+30-PR-Bocaiuva_do_Sul.txt;odo de 14Out2009 a 03Dez2009, 
+04-ES-Sao_Jose_do_Calcado.txt;odo de 11/08/2003 a 15/08/2003, sendo
+33-PB-Araruna.txt;odo de 03Ago2010 a 17Set2010, 
+19-SC-Serra_Alta.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as , 
+17-PI-Caridade_do_Piaui.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as , 
+10-MG-Luislandia.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução técnicas e , 
+33-BA-Nazare.txt;odo de 01Out2010 a 28Out2010, 
+20-SP-Taubate.txt;odo de 31Mar2006 a 02Jun2006, 
+23-RS-Porto_Xavier.txt;odo de 16Mai2007 a 03Jul2007, 
+17-PR-Sarandi.txt;odo de 29/08/2005 a 02/09/2005, sendo
+18-PE-Saloa.txt;odo 17 a 21/10/2005 sendo utilizadas em sua execução as técnicas , 
+18-BA-Muquem_do_Sao_Francisco.txt;odo de 17/10/2005 a 21/10/2005, sendo
+22-PA-Brejo_Grande_do_Araguaia.txt;odo de 27Jul2006 a 22Set2006, 
+14-RJ-Arraial_do_Cabo.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+RM38008-BA- Maracas.txt;odo de 18/03/2013 a 29/03/2013. 
+26-MG-Coronel_Murta.txt;odo de 07Mai2008 a 31Jul2008, 
+28-PI-Campinas_do_Piaui.txt;odo de 21Mai2009 a 07Jul2009, 
+20-RS-Braga.txt;odo de 30Mar2006 a 13Jun2006, 
+08-PI-Caraubas_do_Piaui.txt;odo 12 a 16.
+22-RN-Olho_dAgua_do_Borges.txt;odo de 26Jul2006 a 15Set2006, 
+06-GO-Sao_Patricio.txt;odo de 29/10/2003 a , 
+26-PB-Poco_de_Jose_de_Moura.txt;odo de 07Mai2008 a 18Jul2008, 
+19-SP-Cajamar.txt;odo de 21 a 25 de novembro de 2005 sendo utilizadas em sua,
+34-CE-Boa_Viagem.txt;odo de 29/08/2011 a 02/09/2011. 
+23-RO-Parecis.txt;odo de 16Mai2007 a 05Jul2007, 
+07-MA-Lajeado_Novo.txt;odo de 24 a 28/11/2003. 
+30-MA-Sao_Joao_do_Paraiso.txt;odo de 14Out2009 a 04Jan2010, 
+17-SC-Ponte_Alta_do_Norte.txt;odo de 29/08 a 02/09/2005 sendo utilizados em sua execução as,
+28-RS-Caicara.txt;odo de 20Mai2009 a 15Jul2009, 
+17-SC-Campos_Novos.txt;odo de 29/08 a 01/09/2005, sendo
+25-PB-Itabaiana.txt;odo de 15Out2007 a 18Dez2007, 
+21-MA-Feira_Nova_do_Maranhao.txt;odo de 12Jun2006 a 07Jul2006, 
+25-PI-Angical_do_Piaui.txt;odo de 22Out2007 a 18Fev2008, 
+33-PE-Serrita.txt;odo de 05Ago2010 a 24Set2010, 
+17-BA-Piripa.txt;odo de 29/08/2005 a 02/09/2005, sendo
+03-MT-Guaranta_do_Norte.txt;odo de 30/06/2003 a 04/07/2003, sendo
+30-MT-Rondolandia.txt;odo de 13Out2009 a 24Nov2009, 
+19-MA-Santa_Quiteria_do_Maranhao.txt;odo de 21/11 a 02/12/2005, sendo
+06-TO-Chapada_de_Areia.txt;odo de 29/10 a , 
+22-SP-Novais.txt;odo de 26Jul2006 a 13Nov2006, 
+ESPECIAL_01_PAC-PA-Xinguara.txt;odo de 20Ago2008 a 30Set2008, 
+02-ES-Jaguare.txt;odo de 19/05/2003 à 24/05/2003, sendo
+23-RN-Vicosa.txt;odo de 17Mai2006 a 29Jul2007, 
+13-SP-Itatiba.txt;odo de 08 A 12 de novembro de 2004 sendo utilizados em sua execução técnicas e , 
+13-GO-Santo_Antonio_do_Descoberto.txt;odo de 08.
+18-MT-Santa_Cruz_do_Xingu.txt;odo 17 a 20/outubro/2005 sendo utilizados em sua execução as,
+34-CE-Itapage.txt;odo de 29/08/2011 a 04/11/2011. 
+24-SP-Santana_de_Parnaiba.txt;odo de 02Ago2007 a 14Set2007, 
+RM36006-CE-Pacoti.txt;odo de 06/08/2012 a 13/09/2012. 
+09-GO-Senador_Canedo.txt;odo de 17/05 a 21/05/2004 sendo utilizados em sua execução as técnicas e procedimentos como indagação escrita e oral, 
+21-CE-Pacatuba.txt;odo de 12Jun2006 a 06Ago2006, 
+02-PB-Pitimbu.txt;odo de 19/05/2003 à 24/05/2003, sendo
+ESPECIAL_02_PAC-MA-Vitorio_do_Mearim.txt;odo de 16Mar2009 a 23Mar2009, 
+03-GO-Alexania.txt;odo de 30/06 a 04/07/2003, sendo
+09-BA-Sao_Felix.txt;odo de 17/05 a 21/05/2004 sendo utilizados em sua execução as seguintes , 
+21-SC-Xavantina.txt;odo de 12Jun2006 a 07Jul2006, 
+RM36023-RN-Olho DAgua do Borges.txt;odo de 06/08/2012 a 16/08/2012. 
+29-SP-Santo_Antonio_da_Alegria.txt;odo de 01Out2009 a 19Nov2009, 
+19-SP-Coronel_Macedo.txt;odo de 21 a 25 de novembro sendo utilizados em sua execução as,
+15-TO-Divinopolis_do_Tocantins.txt;odo de 02/05 a 06/05/2005 sendo utilizados em sua execução as , 
+RM38053-SE-Capela.txt;odo de 18/03/2013 a 19/03/2013. 
+14-MG-Cruzilia.txt;odo de 29/11 a 03/12/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+26-PE-Ipubi.txt;odo de 05Mai2008 a 10Jul2008, 
+15-RR-Normandia.txt;odo de 06 a 10 de junho de 2005, sendo
+22-PB-Santana_de_Mangueira.txt;odo de 26Jul2006 a 25Set2006, 
+32-PR-Inaja.txt;odo de 17Mai2010 a 12Jul2010, 
+28-SP-Lindoia.txt;odo de 20Mai2009 a 03Jul2009, 
+10-SP-Santa_Ernestina.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução as técnicas e , 
+11-RS-Venancio_Aires.txt;odo de 12 a 16/07/2004, sendo
+30-SE-Lagarto.txt;odo de 13Out2009 a 04Dez2009, 
+09-RJ-Barra_do_Pirai.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+26-AC-Jordao.txt;odo de 12Mai2008 a 30Jun2008, 
+10-SP-Orindiuva.txt;odo de 14 a 18 de junho de 2004 sendo utilizados em sua execução técnicas e , 
+18-ES-Venda_Nova_do_Imigrante.txt;odo de 13 a 27/10/2005 sendo utilizados em sua execução as técnicas,
+17-GO-Campo_Limpo_de_Goias.txt;odo de 29.
+09-BA-Ipiau.txt;odo de 17/05 a 21/05/2004 sendo utilizados em sua execução as seguintes técnicas/procedimentos: inspeções físicas e documentais, 
+27-SP-Queiroz.txt;odo de 07Nov2008 a 31Dez2008, 
+RM38048-RS-Jaguari.txt;odo de 18/03/2013 a 22/03/2013. 
+25-BA-Lagoa_Real.txt;odo de 17Out2007 a 22Jan2008, 
+34-AC-Manoel_Urbano.txt;odo de 29/08/2011 a 02/09/2011. 
+07-PI-Sao_Francisco_de_Assis_do_Piaui.txt;odo de 24 a , 
+RM38010-CE-Aracoiaba.txt;odo de 18/03/2013 a 29/03/2013. 
+12-RS-Cerro_Branco.txt;odo de 23 a 27/08/2004 sendo utilizados em sua execução as técnicas e , 
+32-PI-Sao_Joao_da_Serra.txt;odo de 17Mai2010 a 30Jul2010, 
+04-SC-Pomerode.txt;odo de 11/08/2003 a 15/08/2003, sendo
+33-SP-Cristais_Paulista.txt;odo de 02Ago2010 a 30Set2010, 
+18-RS-Salvador_do_Sul.txt;odo de 17 a 21/10/2005, sendo
+24-BA-Cocos.txt;odo de 01Ago2007 a 05Out2007, 
+08-MG-Itamonte.txt;odo de 12 a 16/04/2004 sendo utilizados em sua execução as técnicas e procedimentos por meio de inspeções físicas e documentais, 
+18-SP-Cafelandia.txt;odo de 17 de outubro a 21 de outubro de 2005, sendo
+13-MS-Nioaque.txt;odo de 08 a 12/11/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+24-PA-Paragominas.txt;odo de 01Ago2007 a 28Set2007, 
+30-SP-Tanabi.txt;odo de 13Out2009 a 23Dez2009, 
+23-BA-Valenca.txt;odo de 14Mai2007 a 02Ago2007, 
+23-MG-Divisa_Nova.txt;odo de 18Mai2007 a 01Ago2007, 
+15-PB-Soledade.txt;odo 2 a 6/5//2005 sendo utilizados em sua execução as técnicas de inspeções , 
+06-MT-Salto_do_Ceu.txt;odo 27/10 a , 
+12-SC-Cacador.txt;odo de 23 a 27 de agosto de 2004, sendo
+12-MG-Itacambira.txt;odo de 23 a 27 de agosto de 2004 sendo utilizados em sua execução as técnicas e , 
+09-SP-Mongagua.txt;odo de 17 a 21 de maio de 2004 sendo utilizados em sua execução técnicas e procedimentos tais como: análise documental, 
+33-MG-Alpercata.txt;odo de 02Ago2010 a 30Set2010, 
+ESPECIAL_02_PAC-CE-Arneiroz.txt;odo de 09Mar2009 a 31Mar2009, 
+14-PR-Foz_do_Iguacu.txt;odo de 29/11/2004 a 08/12/2004, sendo
+ESPECIAL_01_PAC-RS-Alecrim.txt;odo de 25Ago2008 a 30Set2008, 
+03-MG-Cachoeira_de_Minas.txt;odo de 30/06/2003 a 05/07/2003, sendo
+10-RJ-Santa_Maria_Madalena.txt;odo de 14 a 18 de junho de 2004 sendo utilizados , 
+RM38027-MT- Gaucha do Norte.txt;odo de 17/03/2013 a 23/03/2013. 
+ESPECIAL_02_PAC-PR-Nova_Laranjeiras.txt;odo de 09Mar2009 a 08Abr2009, 
+08-SE-Ribeiropolis.txt;odo de 12 a 16 de abril de 2004, sendo
+35-MS-Antonio_Joao.txt;odo de 17/10/2011 a 21/10/2011. 
+24-SP-Caraguatatuba.txt;odo de 01Ago2007 a 14Set2007, 
+29-RS-Ronda_Alta.txt;odo de 24Ago2009 a 22Out2009, 
+24-SC-Treze_Tilias.txt;odo de 30Jul2007 a 13Set2007, 
+17-BA-Serrinha.txt;odo de 29/08/2005 a 02/09/2005, sendo
+27-SP-Sud_Mennucci.txt;odo de 06Nov2008 a 31Dez2008, 
+15-RS-Putinga.txt;odo de 02 a 06/05/2005, sendo
+10-BA-Carinhanha.txt;odo de 14 a 22/06/2004, sendo
+13-RN-Rio_do_Fogo.txt;odo de 08/12 a 19/11/2004 sendo utilizados em sua execução as técnicas de inspeções , 
+19-AP-Itaubal.txt;odo de 21 a 25 de novembro de 2005 sendo utilizados em sua,
+16-RO-Pimenteiras_do_Oeste.txt;odo 27 de junho a 1º de julho de 2005, sendo
+27-CE-Tamboril.txt;odo de 06Nov2008 a 12Jan2009, 
+18-BA-Sao_Gabriel.txt;odo de 17 a 21/10/2005, sendo
+RM38020-MG-Monte Santo de Minas.txt;odo de 18/03/2013 a 22/03/2013. 
+18-MT-Indiavai.txt;odo de 17 a 20/10/05 sendo utilizados em sua execução as técnicas , 
+11-MG-Sao_Joaquim_de_Bicas.txt;odo de 12 a 16 de julho de 2004 sendo utilizados em sua execução as técnicas e , 
+05-RJ-Sumidouro.txt;odo de 15/09/2003 a , 
+09-BA-Tabocas_do_Brejo_Velho.txt;odo de 17 a 21/05/2004, sendo
+34-RN-Upanema.txt;odo de 29/08/2011 a 02/09/2011. 
+32-RO-Cerejeiras.txt;odo de 17Mai2010 a 17Jun2010, 
+32-GO-Luziania.txt;odo de 01Jul2010 a 08Set2010, 
+13-PR-Assai.txt;odo de 08/11/2004 a 12/11/2004, sendo
+30-BA-Boa_Nova.txt;odo de 15Out2009 a 18Dez2009, 
+25-RS-Sao_Jeronimo.txt;odo de 16Out2007 a 28Dez2007, 
+ESPECIAL_01_PAC-PR-Medianeira.txt;odo de 08Out2008 a 22Out2008, 
+35-PI-Bela_Vista_do_Piaui.txt;odo de 17/10/2011 a 21/10/2011. 
+06-MG-Itabira.txt;odo de 29.
+35-RS-Relvado.txt;odo de 17/10/2011 a 21/10/2011. 
+16-SP-Guararema.txt;odo 20 a 24 de junho de 2005 sendo utilizados em sua execução as , 
+04-RS-Quevedos.txt;odo de 11/08/2003 a 15/08/2003, sendo
+RM38015-GO- Jaupaci.txt;odo de 18/03/2013 a 03/04/2013. 
+23-RN-Jardim_de_Angicos.txt;odo de 16Mai2007 a 09Jul2007, 
+22-MT-Nova_Guarita.txt;odo de 26Jul2006 a 29Ago2006, 
+16-PR-Bela_Vista_da_Caroba.txt;odo de 27/06/2005 a 01/07/2005, sendo
+ESPECIAL_02_PAC-MT-Caceres.txt;odo de 10Mar2009 a 29Abr2009, 
+21-BA-Wagner.txt;odo de 02Jun2006 a 16Ago2006, 
+21-PA-Floresta_do_Araguaia.txt;odo de 12Jun2006 a 27Jul2006, 
+09-PE-Sao_Jose_do_Belmonte.txt;odo 17 a 21/05/04 sendo utilizados em sua execução as técnicas e procedimentos inerentes aos trabalhos desenvolvidos pela Controladoria, 
+31-RR-Amajari.txt;odo de 01Abr2010 a 04Jun2010, 
+25-PA-Maraba.txt;odo de 17Out2007 a 11Jan2008, 
+RM38047-RS-Chiapetta.txt;odo de 18/03/2013 a 22/03/2013. 
+31-PR-Guaporema.txt;odo de 09Mar2010 a 13Mai2010, 
+27-PB-Diamante.txt;odo de 04Nov2008 a 31Dez2008, 
+21-MT-Bom_Jesus_do_Araguaia.txt;odo de 03Jul2006 a 21Jul2006, 
+28-SP-Socorro.txt;odo de 20Mai2009 a 14Jul2009, 
+17-GO-Matrincha.txt;odo de 29.
+12-SC-Iraceminha.txt;odo de 23/08/2004 a 27/08/2004, sendo
+29-MG-Araujos.txt;odo de 01Out2009 a 04Dez2009, 
+31-MG-Sao_Joao_da_Lagoa.txt;odo de 01Abr2010 a 30Jun2010, 
+RM37048-RS-Fortaleza dos Valos.txt;odo de 22/10/2012 a 26/10/2012. 
+RM37046-RS-Barra do Ribeiro.txt;odo de 22/10/2012 a 26/10/2012. 
+33-CE-Pacuja.txt;odo de 03Ago2010 a 21Set2010, 
+33-RO-Sao_Felipe_D_Oeste.txt;odo de 02Ago2010 a 17Set2010, 
+15-MA-Chapadinha.txt;odo de 2 a 12/5/2005 sendo utilizados em sua execução as técnicas , 
